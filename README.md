@@ -4,7 +4,7 @@ A demo sandbox for using Claude to analyse government guidance and legislation. 
 
 ## What Claude is useful for
 
-Content design is skilled work. Claude isn't here to replace that. But there are tasks where it can help:
+This tool can help with these tasks:
 
 - **Gap analysis** — What does the legislation require that the guidance doesn't explain?
 - **Consistency checking** — Are terms, definitions, and numbers used consistently across documents?
@@ -279,6 +279,6 @@ Running separate sessions with different role instructions lets each focus on it
 
 ## Why this exists
 
-The EPR regulations work as a sandbox because they're real, complex, and public — all source material is on GOV.UK or legislation.gov.uk.
+We're using these regs as a sandbox because they're real, complex, and public. All source material is on GOV.UK or legislation.gov.uk.
 
-The exercises focus on analytical tasks (cross-referencing, consistency, gaps) rather than drafting. That's where Claude is most useful and least likely to need editing.
+The exercises focus on analytical tasks (cross-referencing, consistency, gaps) rather than drafting. Drafting's pretty good - try out some stuff - but you'll spot the style and formatting holes. 

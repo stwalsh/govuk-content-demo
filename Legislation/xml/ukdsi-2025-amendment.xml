@@ -1,0 +1,3559 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176" NumberOfProvisions="36" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/ukdsi/2025/9780348276176</dc:identifier><dc:title>The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025</dc:title><dc:publisher>King's Printer of Acts of Parliament</dc:publisher><dc:modified>2025-11-03</dc:modified><dc:subject scheme="SIheading">ENVIRONMENTAL PROTECTION</dc:subject><dct:valid>2026-01-01</dct:valid>
+					<dc:description>These Regulations amend the Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332) (“the 2024 Regulations”).</dc:description>
+					<atom:link rel="self" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/introduction" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/signature" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/note" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/body" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedules" title="schedules"/>
+					
+										
+					
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="text/html" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.htm" title="Website (XHTML) Default View"/><atom:link rel="alternate" type="text/csv" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.csv" title="CSV"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/pdfs/ukdsi_9780348276176_en.pdf" type="application/pdf" title="Original PDF"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/contents" title="Table of Contents"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersededBy" href="http://www.legislation.gov.uk/id/uksi/2025/1369" title="The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025"/>
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+<ukm:DocumentStatus Value="draft"/>
+<ukm:DocumentMinorType Value="regulation"/>
+</ukm:DocumentClassification><ukm:Year Value="2025"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2026-01-01" Time="00:00:00"/>
+</ukm:ComingIntoForce><ukm:ISBN Value="9780348276176"/></ukm:SecondaryMetadata>
+					<ukm:SupersededBy URI="http://www.legislation.gov.uk/id/uksi/2025/1369"><dc:title>The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025</dc:title><ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/><ukm:Year Value="2025"/><ukm:Number Value="1369"/><ukm:ISBN Value="9780348278088"/></ukm:SupersededBy>
+
+                    
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/pdfs/ukdsiem_9780348276176_en_001.pdf" Date="2025-11-03" Title="UK Draft Explanatory Memorandum" Size="62551"/></ukm:Alternatives>       
+								</ukm:Notes> 
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/pdfs/ukdsi_9780348276176_en.pdf" Date="2025-11-03" Size="385110" Print="true"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="39"/>
+									<ukm:BodyParagraphs Value="19"/>
+									<ukm:ScheduleParagraphs Value="20"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/introduction" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/introduction">
+<Draft>
+<Para>
+<Text>Draft Regulations laid before Parliament under sections 50(5), 51(4) and 143(5)(b) of the Environment Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2021/30" id="c00001" Year="2021" Number="30" Class="UnitedKingdomPublicGeneralAct">2021 (c. 30)</Citation>, for approval by resolution of each House of Parliament.</Text>
+</Para>
+</Draft>
+<Number>2025 No. ****</Number>
+<SubjectInformation>
+<Subject>
+<Title>ENVIRONMENTAL PROTECTION</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>***</DateText>
+</MadeDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>1st January 2026</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State makes these Regulations in exercise of the powers conferred by sections 50(1), 51(1), and 143(1) of, and paragraphs 1 to 5, 7 and 12 to 19 of Schedule 4 and paragraphs 1 to 9 and 11 to 17 of Schedule 5 to, the Environment Act 2021<FootnoteRef Ref="f00001"/> (“<Term id="term-the-act">the Act</Term>”).</Text>
+</Para>
+<Para>
+<Text>The Scottish Ministers have consented to the making of these Regulations in relation to Scotland, the Welsh Ministers have consented to the making of these Regulations in relation to Wales, and the Department of Agriculture, Environment and Rural Affairs in Northern Ireland has consented to the making of these Regulations in relation to Northern Ireland, in accordance with sections 50(3) and 51(3) of the Act.</Text>
+</Para>
+<Para>
+<Text>In accordance with paragraphs 8 and 20 of Schedule 4 and paragraphs 10 and 18 of Schedule 5 to the Act, the Secretary of State has consulted persons appearing to the Secretary of State to represent the interests of those likely to be affected by these Regulations, and any other person the Secretary of State considers appropriate.</Text>
+</Para>
+<Para>
+<Text>The Secretary of State is satisfied that these Regulations satisfy the requirements set out in paragraph 9 of Schedule 4 to the Act.</Text>
+</Para>
+<Para>
+<Text>A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with sections 50(5), 51(4) and 143(5)(b) of the Act.</Text>
+</Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/body" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/body" NumberOfProvisions="19">
+<Part DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/part/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/part/1" NumberOfProvisions="2" id="part-1">
+<Number>Part 1</Number>
+<Title>Introduction</Title>
+<P1group>
+<Title>Citation, commencement, extent and application</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/1" id="regulation-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/1/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/1/1" id="regulation-1-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>These Regulations may be cited as the Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/1/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/1/2" id="regulation-1-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>These Regulations come into force on 1st January 2026.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/1/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/1/3" id="regulation-1-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>These Regulations extend to England and Wales, Scotland and Northern Ireland and apply to England, Wales, Scotland and Northern Ireland.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Interpretation</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/2" id="regulation-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>In these Regulations, “<Term id="term-the-2024-regulations">the 2024 Regulations</Term>” means the Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024<FootnoteRef Ref="f00002"/>.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/part/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/part/2" NumberOfProvisions="16" id="part-2">
+<Number>Part 2</Number>
+<Title>Amendment of the 2024 Regulations</Title>
+<P1group>
+<Title>Amendment of the 2024 Regulations</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/3" id="regulation-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<Text>The 2024 Regulations are amended in accordance with regulations 4 to 17.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 1 (general)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4" id="regulation-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/1" id="regulation-4-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In regulation 2 (interpretation), in paragraph (1)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/1/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/1/a" id="regulation-4-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for the definition of “fibre-based composite material” substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>fibre-based composite material</Term>” has the meaning given in regulation 7(5A)(a)</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/1/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/1/b" id="regulation-4-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>insert the following definitions in the appropriate places—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>accredited</Term>” has the meaning given in regulation 84(1);</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>closed loop packaging waste</Term>” has the meaning given in regulation 34(5A);</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>food grade</Term>” has the meaning given in regulation 34(5A);</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>paper or board</Term>” is to be interpreted in accordance with regulation 7(5A)(b);</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>;</AppendText>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>relevant packaging waste</Term>” has the meaning given in regulation 34(4);</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/2" id="regulation-4-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In regulation 7 (packaging and packaging categories), after paragraph (5) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>5A</Pnumber>
+<P2para>
+<Text>For these purposes—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>“<Term>fibre-based composite material</Term>” means packaging material which—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>is made of paperboard or paper fibres, with one or more layers of plastic, and which may also have layers of other materials, to form a single unit that cannot be separated by hand; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>is not in the paper or board packaging category;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>“<Term>paper or board</Term>” includes packaging material which is within the description in sub-paragraph (i) of the definition of fibre-based composite material, if the producer who supplies the packaging can provide evidence that its layer or layers of plastic are not more than 5% of the packaging material by mass.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/3" id="regulation-4-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In regulation 8 (household packaging), in paragraph (1), omit sub-paragraph (b).</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/4" id="regulation-4-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In regulation 11 (exempt packaging)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/4/a" id="regulation-4-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1), for sub-paragraph (c) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>packaging which—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>is a deposit item for the purposes of a relevant deposit scheme; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>would be a deposit item for the purposes of a relevant deposit scheme, but for a low volume line exemption.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/4/b" id="regulation-4-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for paragraph (2) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In paragraph (1)—</Text>
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>low volume line exemption</Term>” means an exemption from being a deposit item, specified in regulations for the purposes of a relevant deposit scheme, which applies where the number of items of a particular description does not exceed a threshold specified in those regulations;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“<Term>marine installation</Term>” means any artificial island, installation or structure at sea, other than a vessel.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/5" id="regulation-4-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>In regulation 12 (exclusion of charities)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/5/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/5/a" id="regulation-4-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>at the beginning insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The following obligations do not apply to a producer which is a charity—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>producer responsibility obligations under regulation 25 and Part 3; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>liability to pay annual disposal and administration fees under regulation 60.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/5/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/5/b" id="regulation-4-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the existing text of regulation 12 becomes paragraph (2); and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/4/5/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/4/5/c" id="regulation-4-5-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in paragraph (2), for “These Regulations do not apply to a charity, and for” substitute <InlineAmendment>“For”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 2 (producers and obligations)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5" id="regulation-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/1" id="regulation-5-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In regulation 15 (producers), at the end insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>Paragraphs (8) and (9) apply where a supply of packaging has been made by a person who, under regulations 16 to 21, is a producer in relation to that packaging (“the first producer”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>Subject to paragraph (9), after the supply of packaging by the first producer, no other person except a seller becomes a producer in relation to that packaging as a result of that other person making a further supply of the packaging.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>But if another component, for example a new label, is added to packaging after its supply by the first producer (<InlineAmendment>“the new packaging component”</InlineAmendment>), it is to be determined in accordance with regulations 16 to 22 who is a producer in relation to the new packaging component.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/2" id="regulation-5-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In regulation 16 (brand owners)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/2/a" id="regulation-5-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1), in the opening words, omit “, subject to paragraph (3)”;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/2/b" id="regulation-5-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for paragraph (3) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>Subject to paragraph (4), where more than one brand appears on filled packaging—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>if the brand owner in respect of one of those brands makes the first supply of the filled packaging, that brand owner is a producer;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>otherwise, the brand owner in respect of the brand which occupies the largest area of the external surface of the packaging is a producer,</Text>
+</P3para>
+</P3>
+<Text>in relation to that packaging, including any part of the packaging contained within, or forming part of, that packaging (whether or not that part of the packaging is branded).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/3" id="regulation-5-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In regulation 24 (threshold criteria: large and small producers), in paragraph (3), for sub-paragraph (b) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the amount of packaging which CB is to be treated as supplying in the calendar year in which the merger took place is to be calculated in accordance with regulation 27A(4);</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/4" id="regulation-5-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In regulation 25 (producer responsibility obligations)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/4/a" id="regulation-5-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1), in the opening words, for “producer” in the first place that it occurs, substitute <InlineAmendment>“person”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/4/b" id="regulation-5-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (2), for sub-paragraph (b) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>keep—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the evidence referred to in regulation 34(2)(b), in accordance with regulation 34(2); and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the evidence specified in regulation 34(3), in accordance with that regulation;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/5" id="regulation-5-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>For the heading to Chapter 3 of Part 2, substitute <InlineAmendment>“Insolvency, etc., and mergers and acquisitions of producers”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/5/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/5/6" id="regulation-5-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>After regulation 27, insert regulations 27A (corporate mergers), 27B (transfers of ownership of a brand or business) and 27C (transfers of ownership: further obligations where the transferor is a large producer) as set out in Schedule 1 to these Regulations.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 3 (producer responsibility obligations)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6" id="regulation-6">
+<Pnumber>6</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/1" id="regulation-6-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In regulation 28 (application for producer registration), after paragraph (2) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>A producer who is required by regulation 27A(3) to register after a corporate merger must submit an application for producer registration to the appropriate agency—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>on or before the earliest date on which any of the merged bodies referred to in regulation 27A would have been required to apply for registration under paragraph (1) for the relevant year in which the merger takes place; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>if later, before the end of a period of 28 days beginning with the day on which the merger takes place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2B</Pnumber>
+<P2para>
+<Text>A producer who is required by regulation 27B(3) to register or to re-register after acquiring a brand or business from another producer must submit an application for producer registration to the appropriate agency—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>on or before the date on which the transferor referred to in regulation 27B would have been required to apply for registration under paragraph (1) for the relevant year in which the transfer of the brand or business takes place; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>if later, before the end of a period of 28 days beginning with the day on which the transfer takes place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/2" id="regulation-6-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In regulation 29 (making an application for producer registration), in paragraph (3)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/2/a" id="regulation-6-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>after sub-paragraph (a), omit “and”;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/2/b" id="regulation-6-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>after sub-paragraph (b) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P>
+<Text>; and</Text>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the additional charge in paragraph 2(2A) of Schedule 1, if the producer is a large producer who wishes to report an amount of closed loop packaging waste under paragraph 12(2) of Schedule 4 in a report to the appropriate agency for one or both reporting periods in the relevant year.</Text>
+</P3para>
+</P3>
+</P>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/3" id="regulation-6-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In regulation 31 (conditions of registration of a producer), in sub-paragraph (e)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/3/a" id="regulation-6-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>omit “P informs the appropriate agency”; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/3/b" id="regulation-6-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>at the end, insert <InlineAmendment>“, P informs the appropriate agency within 28 days of ceasing to be a producer”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4" id="regulation-6-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In regulation 34 (record keeping obligations)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/a" id="regulation-6-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1), in Table 1, in the third column of the entry for “Seller”, omit “12,”;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/b" id="regulation-6-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for paragraph (2) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>A producer must keep—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>any data which the producer is required to collect under paragraph (1), and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>any evidence which the producer is required by paragraph 1(3) of Schedule 4 to be able to provide in relation to that data,</Text>
+</P3para>
+</P3>
+<Text>for at least 7 years after the end of the reporting period to which the data relate.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/c" id="regulation-6-4-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in paragraph (3)—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/c/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/c/i" id="regulation-6-4-c-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in sub-paragraph (a)(i), for “paragraph 12” substitute <InlineAmendment>“paragraph 12(1)”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/c/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/c/ii" id="regulation-6-4-c-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>after sub-paragraph (a) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>aa</Pnumber>
+<P3para>
+<Text>retain evidence—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>of the amount of closed loop packaging waste which P has collected from consumers, and reported on under paragraph 12(2) of Schedule 4;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>that the packaging waste satisfies all the elements of the definition of “closed loop packaging waste” in paragraph (5A);</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>that the packaging waste has been recycled into food grade plastic materials or articles;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/c/iii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/c/iii" id="regulation-6-4-c-iii">
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>in sub-paragraph (b), for “that evidence” substitute <InlineAmendment>“evidence retained under sub-paragraphs (a) and (aa)”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/d" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/d" id="regulation-6-4-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>in paragraph (4), in the closing words, after “but” insert <InlineAmendment>“not including closed loop packaging waste and”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/4/e" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/4/e" id="regulation-6-4-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>after paragraph (5) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>5A</Pnumber>
+<P2para>
+<Text>In this regulation—</Text>
+<UnorderedList Class="Definition" Decoration="none">
+<ListItem>
+<Para>
+<Text>“<Term>closed loop packaging waste</Term>” means household packaging waste which meets all the following conditions—</Text>
+<OrderedList Type="alpha" Decoration="parens">
+<ListItem>
+<Para>
+<Text>the waste is food grade plastic household packaging which has become waste;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>that household packaging has been—</Text>
+<OrderedList Type="roman" Decoration="parens">
+<ListItem>
+<Para>
+<Text>supplied by a producer as filled packaging on or after 1st January 2024; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>included by that producer in an amount of household packaging which, in a report under these Regulations or the 2023 Data Regulations, the producer reported to the appropriate agency that it supplied in a reporting period;</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>the waste is—</Text>
+<OrderedList Type="roman" Decoration="parens">
+<ListItem>
+<Para>
+<Text>collected directly from a consumer by or on behalf of the producer who supplied the packaging, and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>sent by or on behalf of that producer for recycling,</Text>
+</Para>
+</ListItem>
+</OrderedList>
+<Text>without being mixed with any materials other than household packaging waste from packaging which meets the conditions in paragraphs (a) and (b) and was supplied by the same producer;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>the waste is sent by that producer for recycling by a single reprocessor at one or more reprocessing sites or overseas reprocessing sites (where the recycling may be in addition to other recycling carried out by that reprocessor);</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“<Term>food grade</Term>”, in relation to plastic materials or articles, means plastic materials or articles which—</Text>
+<OrderedList Type="alpha" Decoration="parens">
+<ListItem>
+<Para>
+<Text>are intended to come into contact with food; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>meet the requirements for being placed on the market in—</Text>
+<OrderedList Type="roman" Decoration="parens">
+<ListItem>
+<Para>
+<Text>Article 4(a), (c), (d) and (e) of <Citation URI="http://www.legislation.gov.uk/european/regulation/2011/0010" id="c00002" Year="2011" Number="10" Class="EuropeanUnionRegulation">Commission Regulation (EU) No 10/2011</Citation><FootnoteRef Ref="f00003"/>; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>Article 3 of <Citation URI="http://www.legislation.gov.uk/european/regulation/2008/0282" id="c00003" Year="2008" Number="282" Class="EuropeanUnionRegulation">Commission Regulation (EU) No 282/2008</Citation><FootnoteRef Ref="f00004"/>, if the materials or articles are recycled.</Text>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</OrderedList>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/6/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/6/5" id="regulation-6-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>In regulation 35 (reporting obligations: large producers), in paragraph (1), in Table 2, in the third column of the entry for “Seller”, omit “12,”.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 5 (disposal costs)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7" id="regulation-7">
+<Pnumber>7</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/1" id="regulation-7-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In regulation 60 (liability of producers to pay annual disposal and administration fees)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/1/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/1/a" id="regulation-7-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for paragraph (1) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>A person is a liable producer in relation to an assessment year if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the person is a producer in all or part of that assessment year; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in the calendar year ending on the 31st December preceding the start of that assessment year, the person—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>was a brand owner, a packer/filler, an importer or first UK owner, a distributor, an online marketplace operator or a service provider;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>was a large producer; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>supplied household packaging.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/1/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/1/b" id="regulation-7-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (2), for “producer” in the first and second places where it occurs, substitute <InlineAmendment>“person”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2" id="regulation-7-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In regulation 62 (calculation of disposal fee: household packaging waste)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2/a" id="regulation-7-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1)—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2/a/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2/a/i" id="regulation-7-2-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in the definition of “E”, at the end insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P>
+<Text>, after subtraction of the total weight in tonnes of waste in that packaging category which is off-set under paragraph (2) for all liable producers</Text>
+</P>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2/a/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2/a/ii" id="regulation-7-2-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in the definition of “CW”, after “producer” insert <InlineAmendment>“, or, where regulation 67A(4) applies, estimated by the scheme administrator,”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2/b" id="regulation-7-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (2), for the words from “must” to the end, substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P>
+<Text>must, subject to paragraphs (2A) and (2B), off-set the weight in tonnes of relevant packaging waste and closed loop packaging waste in that packaging category reported by or in relation to the liable producer under paragraph 12(1) or (2) of Schedule 4</Text>
+</P>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/2/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/2/c" id="regulation-7-2-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>after paragraph (2) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>The scheme administrator must calculate CW without off-setting any closed loop packaging waste reported under paragraph 12(2) of Schedule 4, if the liable producer has not paid the additional registration charge under regulation 29(3)(c) for the calendar year in question.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2B</Pnumber>
+<P2para>
+<Text>If, for a packaging category, the weight referred to in paragraph (2) is greater than the weight of household packaging reported by or in relation to the producer as having been supplied in the calendar year ending before the start of the assessment year, CW is 0.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/3" id="regulation-7-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In regulation 63 (calculation of disposal fee: costs of providing public information), in paragraphs (2), (4) and (6), in the definition of “CW” in each of those paragraphs, after “made” insert <InlineAmendment>“, or, where regulation 67A(4) applies, estimated by the scheme administrator,”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/4" id="regulation-7-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In regulation 64 (household packaging waste disposal fees: modulation), in paragraph (7), at the end insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>whether the amount of packaging material used is no more than reasonably necessary to fulfil the purpose of the packaging.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/5" id="regulation-7-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>In regulation 65 (calculation of administration fee), after paragraph (2) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>Where the scheme administrator has delegated, or expects to delegate, any of its functions to another body under paragraph 1(1) or (2B) of Schedule 7, the expenses referred to in paragraph (2) include any payments that the scheme administrator expects to make to that body for carrying out those functions.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/6" id="regulation-7-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>After regulation 67, insert regulation 67A (late assessment of disposal and administration fees) as set out in Schedule 2 to these Regulations.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7" id="regulation-7-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>In regulation 68 (payments and interest)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/a" id="regulation-7-7-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in paragraph (1)—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/a/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/a/i" id="regulation-7-7-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>before “producer” insert <InlineAmendment>“liable”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/a/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/a/ii" id="regulation-7-7-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>after “67” insert <InlineAmendment>“or 67A”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/b" id="regulation-7-7-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (2)—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/b/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/b/i" id="regulation-7-7-b-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>after “67(2)(g)” insert <InlineAmendment>“or 67A(7)”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/b/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/b/ii" id="regulation-7-7-b-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>before “producer”, in both places where it occurs, insert <InlineAmendment>“liable”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/b/iii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/b/iii" id="regulation-7-7-b-iii">
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>after “disposal fees” insert <InlineAmendment>“or administration fees”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/7/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/7/c" id="regulation-7-7-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in paragraph (3), after “disposal fee” insert <InlineAmendment>“, administration fee”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/8" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/8" id="regulation-7-8">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>In regulation 70 (assessment by the scheme administrator: relevant authority disposal costs), in paragraph (7), in the opening words, after “possible”, insert <InlineAmendment>“while facilitating achievement of the environmental effects set out in the policy statement published under regulation 127<FootnoteRef Ref="f00005"/>”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/9" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/9" id="regulation-7-9">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>In regulation 73 (procedure for assessments), in paragraph (1)(c)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/9/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/9/a" id="regulation-7-9-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>omit paragraph (i); and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/9/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/9/b" id="regulation-7-9-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (ii), for “the relevant area” substitute <InlineAmendment>“the area of that authority (“the relevant area”)”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/7/10" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/7/10" id="regulation-7-10">
+<Pnumber>10</Pnumber>
+<P2para>
+<Text>In regulation 79 (recalculation of disposal and administration fees), in paragraph (5), in the opening words, after “year is” insert <InlineAmendment>“materially”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 6 (reprocessors and exporters)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/8" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/8" id="regulation-8">
+<Pnumber>8</Pnumber>
+<P1para>
+<Text>In regulation 98 (conditions of accreditation), in paragraph (b)(iii), for “regulation 97(5)(d)” substitute <InlineAmendment>“regulation 97(4)(c) or (5)(d)”</InlineAmendment>.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 8 (appeals)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/9" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/9" id="regulation-9">
+<Pnumber>9</Pnumber>
+<P1para>
+<Text>In regulation 105 (right of appeal: disposal costs and scheme administrator costs), in paragraph (1)(a), after “regulation 67” insert <InlineAmendment>“or 67A”</InlineAmendment>.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 10 (offences and civil sanctions)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10" id="regulation-10">
+<Pnumber>10</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10/1" id="regulation-10-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In regulation 115 (offences: producers), in paragraph (1)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10/1/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10/1/a" id="regulation-10-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (b), after “(2)” insert <InlineAmendment>“, (2A), (2B)”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10/1/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10/1/b" id="regulation-10-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>after sub-paragraph (c), omit “or”;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10/1/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10/1/c" id="regulation-10-1-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>after sub-paragraph (e) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<Text>; or</Text>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>to report the information described in paragraph 12(2) of Schedule 4 (closed loop packaging waste) for a reporting period without having paid the additional registration charge payable under regulation 29(3)(c) for the relevant year in which that reporting period falls.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/10/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/10/2" id="regulation-10-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In regulation 118 (further offences), after paragraph (4), insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>4A</Pnumber>
+<P2para>
+<Text>It is an offence in Scotland for—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a licensor to which Part 1 of Schedule 10 applies to fail to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>collect and keep data as required by paragraph 5 of Schedule 10; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>report data as required by paragraph 6 of Schedule 10;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>a pub operating business to which Part 2 of Schedule 10 applies to fail to—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>collect and keep data as required by paragraph 12 of Schedule 10; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>report data as required by paragraph 13 of Schedule 10.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Part 11 (miscellaneous and supplementary)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/11" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/11" id="regulation-11">
+<Pnumber>11</Pnumber>
+<P1para>
+<Text>In regulation 135 (information sharing), for paragraph (1) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Any information provided under these Regulations to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>an appropriate agency;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the scheme administrator; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>a Producer Responsibility Organisation appointed under paragraph 1(2B) of Schedule 7, or a body with which the scheme administrator enters into an agreement under paragraph 1(1) of Schedule 7,</Text>
+</P3para>
+</P3>
+<Text>may be shared with any other of those bodies.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 1 (charges)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12" id="regulation-12">
+<Pnumber>12</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/1" id="regulation-12-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Schedule 1 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2" id="regulation-12-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In paragraph 2 (producers)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/a" id="regulation-12-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(a), for “£2,620” substitute <InlineAmendment>“£2,842”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/b" id="regulation-12-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(b), for “£1,216” substitute <InlineAmendment>“£1,303”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/c" id="regulation-12-2-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(c), for “£2,579” substitute <InlineAmendment>“£2,885”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/d" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/d" id="regulation-12-2-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(d)(i), for “£558” substitute <InlineAmendment>“£690”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/e" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/e" id="regulation-12-2-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(d)(ii), for “£140” substitute <InlineAmendment>“£172”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/f" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/f" id="regulation-12-2-f">
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>in sub-paragraph (2), for “£332” substitute <InlineAmendment>“£386”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/g" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/g" id="regulation-12-2-g">
+<Pnumber>g</Pnumber>
+<P3para>
+<Text>after sub-paragraph (2) insert—</Text>
+<BlockAmendment Context="schedule" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>The additional charge referred to in regulation 29(3)(c) for a large producer who wishes to report an amount of closed loop packaging waste under paragraph 12(2) of Schedule 4 in a report to the appropriate agency for one or both reporting periods in the relevant year is £2,548.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/2/h" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/2/h" id="regulation-12-2-h">
+<Pnumber>h</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3), for “£714” substitute <InlineAmendment>“£807”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/3" id="regulation-12-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In paragraph 3 (compliance schemes)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/3/a" id="regulation-12-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1), for “£8,174” substitute <InlineAmendment>“£8,691”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/3/b" id="regulation-12-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in sub-paragraph (2), for “£13,804” substitute <InlineAmendment>“£14,702”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/3/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/3/c" id="regulation-12-3-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3), for “£430” substitute <InlineAmendment>“£512”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4" id="regulation-12-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In paragraph 4 (registration of producers which are compliance scheme members)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/a" id="regulation-12-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(a), for “£1,685” substitute <InlineAmendment>“£1,803”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/b" id="regulation-12-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(b), for “£631” substitute <InlineAmendment>“£696”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/c" id="regulation-12-4-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(c), for “£2,579” substitute <InlineAmendment>“£2,885”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/d" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/d" id="regulation-12-4-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(d)(i), for “£558” substitute <InlineAmendment>“£690”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/e" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/e" id="regulation-12-4-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1)(d)(ii), for “£140” substitute <InlineAmendment>“£172”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/f" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/f" id="regulation-12-4-f">
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>in sub-paragraph (2), for “£332” substitute <InlineAmendment>“£386”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/g" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/g" id="regulation-12-4-g">
+<Pnumber>g</Pnumber>
+<P3para>
+<Text>after sub-paragraph (2) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>The additional charge for a large producer who wishes to report an amount of closed loop packaging waste under paragraph 12(2) of Schedule 4 in a report to the appropriate agency for a reporting period in the relevant year is £2,548 for each such producer for whom the scheme operator applies for registration.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/4/h" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/4/h" id="regulation-12-4-h">
+<Pnumber>h</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3), for “(1) and (2)”, in both places where it occurs, substitute <InlineAmendment>“(1), (2) and (2A)”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/5" id="regulation-12-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>In paragraph 5 (reprocessors and exporters: registration)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/5/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/5/a" id="regulation-12-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (1), for “£2,921” substitute <InlineAmendment>“£3,228”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/5/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/5/b" id="regulation-12-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in sub-paragraph (2), for “£428” substitute <InlineAmendment>“£574”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/5/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/5/c" id="regulation-12-5-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3), for “£1,324” substitute <InlineAmendment>“£1,571”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6" id="regulation-12-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>In paragraph 6 (reprocessors and exporters: accreditation)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/a" id="regulation-12-6-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (2)(b), for “£216” substitute <InlineAmendment>“£328”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/b" id="regulation-12-6-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3)(a), for “£500” substitute <InlineAmendment>“£546”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/c" id="regulation-12-6-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3)(b), for “£2,000” substitute <InlineAmendment>“£2,184”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/d" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/d" id="regulation-12-6-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3)(c), for “£3,000” substitute <InlineAmendment>“£3,276”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/e" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/e" id="regulation-12-6-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>in sub-paragraph (3)(d), for “£3,631” substitute <InlineAmendment>“£3,965”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/f" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/f" id="regulation-12-6-f">
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>in sub-paragraph (4), for “£428” substitute <InlineAmendment>“£574”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/6/g" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/6/g" id="regulation-12-6-g">
+<Pnumber>g</Pnumber>
+<P3para>
+<Text>in sub-paragraph (6), for “£216” substitute <InlineAmendment>“£328”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/12/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/12/7" id="regulation-12-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>In paragraph 8 (annual increases for inflation), in sub-paragraph (1), for “2026” substitute <InlineAmendment>“2027”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 4 (producer reporting information)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13" id="regulation-13">
+<Pnumber>13</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/1" id="regulation-13-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Schedule 4 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/2" id="regulation-13-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In paragraph 1(3)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/2/a" id="regulation-13-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for “may only” substitute <InlineAmendment>“must not”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/2/b" id="regulation-13-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for “if” substitute <InlineAmendment>“unless”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/3" id="regulation-13-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>For paragraph 12 substitute—</Text>
+<BlockAmendment Context="schedule" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P1>
+<Pnumber>12</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The weight in kilograms, in each packaging category, of relevant packaging waste which the producer has collected from consumers and sent for recycling and in respect of which the producer has evidence that it has been recycled in the reporting period.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Subject to sub-paragraphs (3) to (5), the weight in kilograms of closed loop packaging waste which the producer has collected from consumers and sent for recycling and in respect of which the producer has evidence that it has been recycled into food grade plastic materials or articles in the reporting period.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>If, during a reporting period, a producer changes the reprocessor to which it sends closed loop packaging waste for recycling, and does not thereafter send any further closed loop packaging waste to the previous reprocessor, the producer may report the aggregate weight of closed loop packaging waste sent to both reprocessors which satisfies the conditions in sub-paragraph (2).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>But a producer must not otherwise, for the purposes of sub-paragraph (2), aggregate weights of closed loop packaging waste sent to more than one reprocessor.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>A producer must not report any closed loop packaging waste under sub-paragraph (2) for a reporting period unless the producer has paid the additional registration charge payable under regulation 29(3)(c) for the relevant year in which that reporting period falls.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>For the purposes of sub-paragraphs (1) and (2), the evidence referred to in those paragraphs must be obtained by the producer from an accredited reprocessor or exporter.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/13/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/13/4" id="regulation-13-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In paragraph 13(1), in the opening words, after “in kilograms” insert <InlineAmendment>“, in each packaging category,”</InlineAmendment>.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 7 (the scheme administrator)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14" id="regulation-14">
+<Pnumber>14</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/1" id="regulation-14-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Schedule 7 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/2" id="regulation-14-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In paragraph 1 (power to delegate functions)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/2/a" id="regulation-14-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>after sub-paragraph (2) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P2>
+<Pnumber>2A</Pnumber>
+<P2para>
+<Text>Sub-paragraphs (2B) and (2C) apply where the person appointed as the scheme administrator is the Secretary of State or a statutory body.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2B</Pnumber>
+<P2para>
+<Text>The scheme administrator may appoint a body (a “Producer Responsibility Organisation” or “PRO”) to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>perform on behalf of the scheme administrator, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>provide advice, recommendations or support to the scheme administrator in relation to the performance by the scheme administrator of,</Text>
+</P3para>
+</P3>
+<Text>such of the scheme administrator’s functions as are specified in the appointment.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2C</Pnumber>
+<P2para>
+<Text>The scheme administrator must, before appointing a body as a Producer Responsibility Organisation, obtain the consent of each of the appropriate authorities to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the appointment of that body;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the proposed duration of the appointment; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the functions which it proposes to appoint that body to perform.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/2/b" id="regulation-14-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>omit sub-paragraph (3).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/3" id="regulation-14-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>After paragraph 1, insert paragraphs 1A to 1E as set out in Schedule 3 to these Regulations.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/14/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/14/4" id="regulation-14-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In paragraph 10 (complaints procedure), in the opening words, after “Regulations,”, insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P>
+<Text>or the way in which a Producer Responsibility Organisation appointed under paragraph 1(2B) of this Schedule or a body with which the scheme administrator enters into an agreement under paragraph 1(1) of this Schedule exercises the functions conferred on that body,</Text>
+</P>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 8 (reprocessors and exporters)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/15" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/15" id="regulation-15">
+<Pnumber>15</Pnumber>
+<P1para>
+<Text>In Schedule 8, in paragraph 31—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/15/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/15/a" id="regulation-15-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in sub-paragraph (c), for “may not issue PRNs or PERNs” substitute <InlineAmendment>“must not issue a PRN or PERN”</InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/15/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/15/b" id="regulation-15-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>after sub-paragraph (c) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>must not issue a PRN or PERN in relation to any packaging waste for which a PRN or PERN has already been issued, either by that reprocessor or exporter or by any other reprocessor or exporter.</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 13 (civil sanctions)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16" id="regulation-16">
+<Pnumber>16</Pnumber>
+<P1para>
+<Text>In Schedule 13, in the table after paragraph 1—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16/a" id="regulation-16-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>under the sub-heading “Producers”—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16/a/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16/a/i" id="regulation-16-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in the entry for regulation 28(1) to (3), in the first column (headed “Requirement or prohibition”), after “(2)” insert <InlineAmendment>“, (2A), (2B)”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16/a/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16/a/ii" id="regulation-16-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in the entry for regulation 31(b) to (e), in the fourth column (headed “Compliance Notice”), for “No” substitute <InlineAmendment>“Yes”</InlineAmendment>;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16/a/iii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16/a/iii" id="regulation-16-a-iii">
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>after the entry for regulation 68(4) insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<Tabular Orientation="portrait">
+<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+<colgroup><col width="40%"/><col width="15%"/><col width="15%"/><col width="15%"/><col width="15%"/></colgroup>
+<tbody><tr><td>Schedule 4, paragraph 12(5) (prohibition on reporting closed loop packaging waste without having paid the additional registration charge payable under regulation 29(3)(c))</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr></tbody>
+</table>
+</Tabular>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/16/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/16/b" id="regulation-16-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>under the sub-heading “Holding companies with a group registration”, in the entry for regulation 31(b) to (e) as applied by Schedule 9, paragraph 4(5), in the fourth column, for “No” substitute <InlineAmendment>“Yes”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of Schedule 14 (public register)</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/17" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/17" id="regulation-17">
+<Pnumber>17</Pnumber>
+<P1para>
+<Text>In Schedule 14, in paragraph 5, for sub-paragraph (b) substitute—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>details of each registration and accreditation held by the reprocessor or exporter, including—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the category of packaging waste specified in the registration or accreditation; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in the case of a registration or accreditation held by a reprocessor, the reprocessing site specified in the registration or accreditation;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<Part DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/part/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/part/3" NumberOfProvisions="1" id="part-3">
+<Number>Part 3</Number>
+<Title>Transitional provisions</Title>
+<P1group>
+<Title>Transitional provisions</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/regulation/18" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/regulation/18" id="regulation-18">
+<Pnumber>18</Pnumber>
+<P1para>
+<Text>The transitional provisions in Schedule 4 to these Regulations have effect.</Text>
+</P1para>
+</P1>
+</P1group>
+</Part>
+<SignedSection DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/signature" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/signature">
+<Signatory>
+<Signee>
+<JobTitle>Parliamentary Under Secretary of State</JobTitle>
+<Department>Department for Environment, Food and Rural Affairs</Department>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<Schedules>
+<Title>Schedules</Title>
+<Schedule DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/1" NumberOfProvisions="3" id="schedule-1">
+<Number>Schedule 1</Number>
+<TitleBlock>
+<Title>Corporate mergers and acquisitions</Title>
+</TitleBlock>
+<Reference>Regulation 5(6)</Reference>
+<ScheduleBody>
+<P DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/1/paragraph/" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/1/paragraph/" NumberOfProvisions="3" id="schedule-1-paragraph-">
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P1group>
+<Title>Corporate mergers</Title>
+<P1>
+<Pnumber>27A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This regulation applies to a body corporate (“<Term>CB</Term>”) resulting from the merger of two or more bodies corporate (“the merged bodies”), where, in the relevant year in which the merger took place (“year M”), one or more of the merged bodies was a large producer or a small producer.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In year M and in the following year, CB is to be treated as—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a large producer, if one or more of the merged bodies was a large producer in year M; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>a small producer, if none of the merged bodies was a large producer in year M.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>CB must apply to be registered in accordance with regulation 28(2A).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>CB is to be treated for the purposes of these Regulations as supplying in year M the sum of the amounts of packaging supplied in that year—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>before the merger, by each of the merged bodies which were producers; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>after the merger, by CB.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>CB must comply with the producer responsibility obligations of each of the merged bodies for—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>year M, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>any previous relevant year,</Text>
+</P3para>
+</P3>
+<Text>in so far as those obligations are continuing obligations (such as an obligation to retain data or evidence) or the obligations have not been fully complied with before the merger took place.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>Where CB is liable by virtue of paragraph (5) to meet the recycling obligations of a merged body, any PRNs or PERNs obtained by the merged body before the merger may be transferred to CB and used by CB to demonstrate compliance with those recycling obligations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>CB is liable to pay a disposal fee and an administration fee to the scheme administrator for the assessment year beginning on 1st April in year M, in an amount determined in accordance with paragraph (8), if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the merger takes place on or after 1st April in year M, and one or more of the merged bodies was, before the merger takes place, a liable producer in relation to that assessment year; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the merger takes place before 1st April in year M, and one or more of the merged bodies would have been a liable producer in relation to that assessment year if the merger had not taken place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>The amount payable under paragraph (7) is the sum of the amounts of the disposal fees and the administration fees for the assessment year which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>were due from each of the merged bodies before the merger and are unpaid; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>would, but for the merger, have become due from each of the merged bodies.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>If any of the merged bodies was a liable producer in relation to a previous assessment year, CB is liable to pay to the scheme administrator any disposal fee or administration fee for that assessment year which—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>was due from the merged body before the merger and is unpaid; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>would, but for the merger, have become due from the merged body under regulation 68 or as a result of a recalculation under Chapter 5 of Part 5.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Transfers of ownership of a brand or business</Title>
+<P1>
+<Pnumber>27B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This regulation applies where, in a relevant year, a large producer or small producer (“the transferor”, or “TR”) transfers ownership to another person (“the transferee”, or “TE”) of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a brand which appears on filled packaging; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>TR’s business, or a part of TR’s business which includes the supply of packaging.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>TE must, within 28 days after the date of the transfer of ownership, inform the appropriate agency in writing of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the brand or business acquired by TE;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the identity of the producer from which TE has acquired the brand or business; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the date of the transfer of ownership.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>TE must apply in accordance with regulation 28(2B)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for producer registration, if TE is not registered as a producer for the relevant year in which the transfer of ownership takes place; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>to re-register as a large producer, if—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>TE is registered as a small producer for that relevant year; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>following the transfer of ownership, TE is to be treated as a large producer for that relevant year by virtue of paragraph (4)(a).</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>For the relevant year in which the transfer of ownership takes place, and each of the following two years, TE is to be treated as—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a large producer, if—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>TE’s adjusted turnover was more than £2,000,000 in its last financial year that ended before 7th April in year Y-1 in respect of which audited accounts are available; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>TE’s adjusted amount of packaging supplied in year Y-2 was more than 50 tonnes; or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>a small producer, if one or both of the criteria in sub-paragraph (a) are not satisfied.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>For the purposes of paragraph (4)(a)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>TE’s “<Term>adjusted turnover</Term>” means the sum of TE’s turnover in the financial year referred to in paragraph (4)(a)(i) and—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>TR’s turnover in its last financial year that ended before 7th April in year Y-1 in respect of which audited accounts are available, if TR has transferred the whole of its business to TE; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the relevant proportion of TR’s turnover in that financial year, if TR has transferred ownership of a brand, or part of its business, to TE;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>TE’s “<Term>adjusted amount of packaging supplied</Term>” means the sum of the amount of packaging supplied by TE in the calendar year in question and—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the amount of packaging supplied by TR in that year, if TR has transferred the whole of its business to TE; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the relevant proportion of the amount of packaging supplied by TR in that year, if TR has transferred ownership of a brand, or part of its business, to TE.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>For the purposes of paragraph (5)(a)(ii), the “relevant proportion” of TR’s turnover means the proportion of TR’s turnover in the financial year in question that was attributable to the brand, or the part of TR’s business, that has been transferred to TE.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>For the purposes of paragraph (5)(b)(ii), the “relevant proportion” of the amount of packaging supplied by TR means the proportion of the total amount of packaging supplied by TR in the calendar year in question that was supplied—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>with the brand that TR has transferred to TE, or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>by the part of TR’s business that TR has transferred to TE.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>In paragraph (4), “<Term>year Y-1</Term>” means the calendar year preceding year Y, and “<Term>year Y-2</Term>” means the calendar year preceding year Y-1, where “<Term>year Y</Term>” means the relevant year for which it is being determined whether TE is a large producer or a small producer.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>Paragraphs (4) to (7) of this regulation are to be interpreted in accordance with regulation 24(5)(b) and (c), (6) and (7).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Transfers of ownership: further obligations where the transferor is a large producer</Title>
+<P1>
+<Pnumber>27C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This regulation applies where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a transfer of ownership of a brand or business takes place as referred to in regulation 27B(1); and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the transferor is a large producer in the relevant year in which the transfer of ownership takes place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In this regulation, “<Term>TR</Term>” and “<Term>TE</Term>” have the same meanings as in regulation 27B.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>TR and TE must each submit to the appropriate agency reports of data under regulation 35, or resubmit reports if they have already reported data under that regulation, for the reporting periods ending on 30th June and 31st December in—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the relevant year in which the transfer of ownership takes place; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the year before that relevant year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>For the purpose of reports that are submitted or resubmitted under paragraph (3), any packaging that was supplied by TR before the date of the transfer of ownership with the brand, or by the business, acquired by TE, is to be treated as if it had been supplied by TE and not by TR.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>Paragraphs (3) and (4) apply to TR regardless of whether it remains a producer following the transfer of the brand or business in question.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>A report which is required to be submitted or resubmitted under paragraph (3) must be submitted or resubmitted to the appropriate agency—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>on or before the later of—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the date on which reports for that reporting period are required to be submitted under regulation 35; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the end of a period of 28 days beginning with the day on which the transfer of ownership takes place; and</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in accordance with regulation 39 (reporting obligations: general provisions).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>If, for the relevant year in which the transfer of ownership takes place, TR would, but for this paragraph, be subject to recycling obligations in respect of packaging which was supplied with the brand, or by the business, that has been acquired by TE—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>TR ceases to be subject to those recycling obligations; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>TE is subject to those recycling obligations instead.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>If TR is (or would, but for the transfer, be) a liable producer under Part 5 in the assessment year starting on 1st April in the relevant year in which the transfer of ownership takes place, the disposal fees and administration fees payable by TR and TE for that assessment year are to be calculated taking into account the data submitted, or resubmitted, by TR and TE under paragraph (3)(a).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/2" NumberOfProvisions="1" id="schedule-2">
+<Number>Schedule 2</Number>
+<TitleBlock>
+<Title>Late assessment of disposal and administration fees</Title>
+</TitleBlock>
+<Reference>Regulation 7(6)</Reference>
+<ScheduleBody>
+<P DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/2/paragraph/" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/2/paragraph/" NumberOfProvisions="1" id="schedule-2-paragraph-">
+<BlockAmendment Context="main" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P1group>
+<Title>Late assessment of disposal and administration fees</Title>
+<P1>
+<Pnumber>67A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This paragraph applies where—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the scheme administrator has calculated under regulation 60(3)(a) the disposal fees and administration fees payable by liable producers for an assessment year;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for the purposes of those calculations, the scheme administrator has not treated a person (“<Term>P</Term>”) as being a liable producer; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the scheme administrator subsequently obtains information from which it appears to the scheme administrator that P is a liable producer in relation to the assessment year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Where paragraph (1) applies, the scheme administrator must serve on P a notice in writing—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>informing P that the scheme administrator intends to treat P as a liable producer in relation to the assessment year, and stating the grounds on which it appears to the scheme administrator that P is a liable producer in relation to the assessment year; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>stating that if P asserts that P is not a liable producer in relation to the assessment year, P may, within such reasonable period as is specified in the notice, provide information to the scheme administrator to substantiate that.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>If, after the expiry of the period specified in a notice served under paragraph (2), and after considering any information provided by P within that period, the scheme administrator is satisfied that P is a liable producer in relation to the assessment year, the scheme administrator must as soon as reasonably practicable—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>calculate the disposal fee and administration fee payable by P for the assessment year; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>subject to paragraph (8), serve a notice of liability on P, which must include the information specified in regulation 67(2) and (3).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>If P has not reported any data under paragraph 3 of Schedule 4 for the calendar year preceding the start of the assessment year, the scheme administrator may calculate the disposal fee and administration fee payable by P using estimates, based on the best available evidence, of the amounts of—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>household packaging in each packaging category supplied by P in that calendar year; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>that household packaging which consists of commonly binned or littered items.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>This paragraph applies if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the scheme administrator serves a notice of liability on P under paragraph (3)(b); and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the scheme administrator did not previously treat P as a liable producer in relation to the assessment year because of a failure by P, or a person acting on P’s behalf, to comply with these Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>Where paragraph (5) applies, the scheme administrator may—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>determine the date on which payment of the disposal fees and administration fees specified in the notice of liability would have fallen due, but for that failure to comply; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>charge P interest from that date on the amount of the disposal fees and administration fees.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>Where the scheme administrator charges P interest under paragraph (6)(b), the notice of liability must state—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the amount of interest charged;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the period for which it is charged; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the reason why it is charged.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>The scheme administrator may not serve a notice of liability on P under paragraph (3)(b)—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>more than 4 years after the end of the assessment year to which the notice of liability relates (“the 4-year period”), unless sub-paragraph (b) applies; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>more than 10 years after the end of the assessment year to which the notice of liability relates, if the scheme administrator was unable to make the calculations referred to in paragraph (3)(a) within the 4-year period because of the failure of P, or a person acting on P’s behalf, to comply with their obligations under these Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/3" NumberOfProvisions="5" id="schedule-3">
+<Number>Schedule 3</Number>
+<TitleBlock>
+<Title>Producer Responsibility Organisations</Title>
+</TitleBlock>
+<Reference>Regulation 14(3)</Reference>
+<ScheduleBody>
+<P DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/3/paragraph/" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/3/paragraph/" NumberOfProvisions="5" id="schedule-3-paragraph-">
+<BlockAmendment Context="schedule" Format="double" TargetClass="secondary" TargetSubClass="unknown">
+<P1group>
+<Title>Appointment of a PRO: supplementary</Title>
+<P1>
+<Pnumber>1A</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The scheme administrator may only appoint a body as a PRO if the scheme administrator is satisfied that the body—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>is a not-for-profit body corporate but is not a charity; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>is suitable for appointment as a PRO, taking into account—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the level of support for the body’s appointment among persons appearing to the scheme administrator to represent the interests of producers and other persons likely to be affected by the appointment;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the extent to which the conferral on the body of the functions which the scheme administrator proposes to appoint it to perform would provide value for money;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>if the body, or another body under the management or control of the same persons, has previously been appointed as a PRO, its performance of the functions conferred on it under any previous appointment; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iv</Pnumber>
+<P4para>
+<Text>such other matters as the scheme administrator considers relevant, having regard in particular to the nature of the functions which it is proposed to confer on the PRO.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The appointment of a PRO—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>must be for a specified period (“the appointment period”); and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>continues until the end of the appointment period unless revoked under paragraph 1B, even if the person appointing the PRO ceases to be the scheme administrator before the end of that period.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>The appointment of a PRO may, subject to sub-paragraph (4), be subject to such conditions (if any) as the scheme administrator considers appropriate.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>But the appointment of a PRO may not give the scheme administrator power to direct the PRO in relation to the performance of functions conferred on the PRO under the appointment.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>The scheme administrator may, with the consent of the appropriate authorities—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>extend a body’s appointment as a PRO; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>vary a body’s appointment as a PRO by conferring additional functions on the body or by removing functions from the body.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>The scheme administrator may, with the consent of the appropriate authorities and the agreement of the PRO, by notice in writing vary or revoke any condition to which a PRO is subject.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>In sub-paragraph (1), a “<Term>not-for-profit body corporate</Term>” means a body corporate which uses money earned by, or donated to, that body corporate solely to pursue its objectives and which does not distribute income to its members, directors or officers except for reasonable remuneration for goods or services supplied to that body.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Revocation of appointment of a PRO</Title>
+<P1>
+<Pnumber>1B</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The scheme administrator may, with the consent of the appropriate authorities, revoke the appointment of a PRO before the end of the appointment period if it appears to the scheme administrator that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the body has failed to meet one or more conditions of its appointment;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the body has knowingly or recklessly supplied to the scheme administrator information which is false or is misleading in a material particular—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in respect of its application for appointment as a PRO; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in connection with the performance of its functions as a PRO;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the body has been convicted of an offence involving financial impropriety or fraud;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>an insolvency event, within the meaning given in Schedule 2, has taken place in relation to the body;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>the body has become subject to a petition or application for winding-up, administration or receivership;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>the body is likely to be unable to comply with the conditions of its appointment, by reason of a change of circumstances which the body has notified to the scheme administrator;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>g</Pnumber>
+<P3para>
+<Text>the body has, in relation to any activities which are regulated by the appropriate agency—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>failed to comply with a notice issued by the appropriate agency;</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>failed to pay any amount owed by it to the appropriate agency; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>had a civil sanction imposed on it by the appropriate agency, had an enforcement undertaking accepted by the appropriate agency, or been convicted of an offence upon prosecution by the appropriate agency.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The scheme administrator—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>must revoke a body’s appointment as a PRO if the scheme administrator considers—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>that a mandatory exclusion ground set out in Schedule 6 to the Procurement Act 2023<FootnoteRef Ref="f00006"/> (“<Term>the 2023 Act</Term>”) applies to the body or to a connected person; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>either—</Text>
+<P5>
+<Pnumber>aa</Pnumber>
+<P5para>
+<Text>the circumstances giving rise to the application of the exclusion ground are continuing or likely to occur again; or</Text>
+</P5para>
+</P5>
+<P5>
+<Pnumber>bb</Pnumber>
+<P5para>
+<Text>the body, or a connected person, is on the debarment list under section 62 of the 2023 Act by virtue of a mandatory exclusion ground set out in Schedule 6 to that Act;</Text>
+</P5para>
+</P5>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>may revoke a body’s appointment as a PRO if the scheme administrator considers—</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>that a discretionary exclusion ground set out in Schedule 7 to the 2023 Act applies to the body or to a connected person; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>either—</Text>
+<P5>
+<Pnumber>aa</Pnumber>
+<P5para>
+<Text>the circumstances giving rise to the application of the exclusion ground are continuing or likely to occur again; or</Text>
+</P5para>
+</P5>
+<P5>
+<Pnumber>bb</Pnumber>
+<P5para>
+<Text>the body, or a connected person, is on the debarment list under section 62 of the 2023 Act by virtue of a discretionary exclusion ground set out in Schedule 7 to that Act.</Text>
+</P5para>
+</P5>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>If the scheme administrator proposes to revoke a body’s appointment as a PRO, it must first give the body a notice of its intention to do so (a “notice of intent”).</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>A notice of intent must be in writing and must—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>state that the scheme administrator proposes to revoke the body’s appointment as a PRO, and the reasons why;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>specify the date on which it proposes that the revocation will take effect;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>state that the body may make representations in connection with the proposed revocation of its appointment;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>specify the form and manner in which, and date by which, any such representations must be made.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>The scheme administrator must consider any representations that are made in the specified form and manner and by the specified date.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>The scheme administrator must give the body notice in writing of its decision whether to revoke its appointment as a PRO and, where the decision is to revoke its appointment, the date on which the revocation will take effect.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Transfer of assets etc.</Title>
+<P1>
+<Pnumber>1C</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The scheme administrator may transfer relevant property, rights and liabilities of an outgoing PRO to—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the scheme administrator; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>another PRO appointed to take over the functions of the outgoing PRO,</Text>
+</P3para>
+</P3>
+<Text>as a consequence of the outgoing PRO ceasing to be a PRO.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The relevant property, rights and liabilities of the outgoing PRO that may be transferred under paragraph (1) are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>data created and compiled specifically for the purposes of the functions of the scheme administrator under these Regulations;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>intellectual property;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>IT systems;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>contracts entered into by the outgoing PRO for the purposes of the functions it has been appointed to carry out on behalf of the scheme administrator;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>staff and human resources systems.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>The scheme administrator may only transfer such of the relevant property, rights and liabilities set out in paragraph (2) as constitute the minimum assets required to enable the continued exercise of the scheme administrator’s functions under these Regulations.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>The property, rights and liabilities that may be transferred under this paragraph include property, rights and liabilities that would not otherwise be capable of being transferred or assigned by the outgoing PRO.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>A transfer of property, rights and liabilities under this paragraph takes effect despite the absence of any required consent or concurrence to or with the transfer and as if—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>no liability existed in respect of a contravention of a requirement for consent or concurrence, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>there were no interference with any property or right,</Text>
+</P3para>
+</P3>
+<Text>that would otherwise exist by reason of any provision (whether under any enactment or agreement or otherwise) having effect in relation to the terms on which the outgoing PRO is entitled to the property or right, or subject to the liability, in question.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>For the purposes of this paragraph, any property, right or liability of the outgoing PRO is relevant property, or a relevant right or liability, only if it was acquired by, or the outgoing PRO became subject to it, in the course of, or in preparation for, the exercise of its functions as a PRO pursuant to an appointment under paragraph 1A.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>In this paragraph and in paragraphs 1D and 1E, an “<Term>outgoing PRO</Term>” means a body whose appointment as a PRO expires or is revoked under paragraph 1B of this Schedule.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Transitional provision in connection with paragraph 1C</Title>
+<P1>
+<Pnumber>1D</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Anything that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>is done (or has effect as if done) by or in relation to an outgoing PRO in respect of any property, right or liability transferred under paragraph 1C; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>has effect immediately before the transfer takes place,</Text>
+</P3para>
+</P3>
+<Text>is to be treated as done by or in relation to the transferee.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>There may be continued by or in relation to the transferee anything, including legal proceedings, that—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>relates to any property, right or liability transferred under paragraph 1C, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>is in the process of being done by, on behalf of or in relation to the outgoing PRO immediately before the transfer takes place.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In this paragraph, “<Term>the transferee</Term>” means the scheme administrator or new PRO, as the case may be, to whom the property, right or liability is transferred.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Continuity in exercise of functions</Title>
+<P1>
+<Pnumber>1E</Pnumber>
+<P1para>
+<Text>Anything done by an outgoing PRO in connection with the exercise of its functions has effect as if done by—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the new PRO, in a case where it is appointed to take over the functions of the outgoing PRO; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the scheme administrator, in any other case.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4" NumberOfProvisions="8" id="schedule-4">
+<Number>Schedule 4</Number>
+<TitleBlock>
+<Title>Transitional provisions</Title>
+</TitleBlock>
+<Reference>Regulation 18</Reference>
+<ScheduleBody>
+<P1group>
+<Title>Interpretation of this Schedule</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/1" id="schedule-4-paragraph-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>In this Schedule, expressions defined in the 2024 Regulations have the meanings given in those Regulations.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Reports of information for a reporting period in 2024 or 2025: closed loop packaging waste</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2" id="schedule-4-paragraph-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1" id="schedule-4-paragraph-2-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Sub-paragraph (3) applies where—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a" id="schedule-4-paragraph-2-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>before these Regulations came into force, a large producer reported information to the appropriate agency under—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a/i" id="schedule-4-paragraph-2-1-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the 2023 Data Regulations; or</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/a/ii" id="schedule-4-paragraph-2-1-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>regulation 35 of the 2024 Regulations, as read with paragraph 2 of Schedule 15 to those Regulations,</Text>
+</P4para>
+</P4>
+<Text>for a 6-month period ending on 30th June 2024, 31st December 2024 or 30th June 2025; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/1/b" id="schedule-4-paragraph-2-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the conditions in sub-paragraph (2) are satisfied in relation to that producer.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2" id="schedule-4-paragraph-2-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The conditions in this sub-paragraph are that—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/a" id="schedule-4-paragraph-2-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the producer would have been entitled to report an amount of packaging waste as closed loop packaging waste under paragraph 12(2) of Schedule 4 to the 2024 Regulations, as amended by these Regulations, had the 2024 Regulations been in force with the amendments made by regulations 6(4) and 13 of these Regulations when the producer reported that information;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/b" id="schedule-4-paragraph-2-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the producer has retained evidence of the matters set out in regulation 34(3)(aa) of the 2024 Regulations, as inserted by regulation 6(4)(c) of these Regulations, in relation to that packaging waste (with regulation 34(3)(aa)(i) being read for this purpose as if the words from “and reported on” to the end were omitted); and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/2/c" id="schedule-4-paragraph-2-2-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the producer has not already included that packaging waste in the amount of relevant packaging waste that it has reported under the 2024 Regulations or the 2023 Data Regulations for any reporting period.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3" id="schedule-4-paragraph-2-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>Where this sub-paragraph applies, the producer may—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3/a" id="schedule-4-paragraph-2-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>submit an amended report to the appropriate agency for a reporting period referred to in sub-paragraph (1)(a); and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/3/b" id="schedule-4-paragraph-2-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for the purposes of the amended report, include the amount of packaging waste referred to in sub-paragraph (2)(a) in the amount of relevant packaging waste that it reports for that period (regardless of whether the packaging waste in question satisfies the definition of “relevant packaging waste” in regulation 34(4) of the 2024 Regulations).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4" id="schedule-4-paragraph-2-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>Sub-paragraph (6) applies where—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4/a" id="schedule-4-paragraph-2-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a large producer reports information to the appropriate agency under regulation 35 of the 2024 Regulations for a 6-month period ending on 31st December 2025; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/4/b" id="schedule-4-paragraph-2-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the conditions in sub-paragraph (5) are satisfied in relation to that producer.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5" id="schedule-4-paragraph-2-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>The conditions in this sub-paragraph are that—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5/a" id="schedule-4-paragraph-2-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the producer would, but for sub-paragraph (6)(a), be entitled to report an amount of packaging waste as closed loop packaging waste under paragraph 12(2) of Schedule 4 to the 2024 Regulations as amended by these Regulations (for this purpose disregarding paragraph 12(5) of that Schedule); and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/5/b" id="schedule-4-paragraph-2-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the conditions in sub-paragraph (2)(b) and (c) are satisfied in relation to that packaging waste.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6" id="schedule-4-paragraph-2-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>Where this sub-paragraph applies, the producer—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6/a" id="schedule-4-paragraph-2-6-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>may not report the packaging waste referred to in sub-paragraph (5)(a) as closed loop packaging waste; but</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/6/b" id="schedule-4-paragraph-2-6-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>may include that packaging waste in the amount of relevant packaging waste that it reports for the reporting period (regardless of whether the packaging waste in question satisfies the definition of “relevant packaging waste” in regulation 34(4) of the 2024 Regulations).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7" id="schedule-4-paragraph-2-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>An amended report under sub-paragraph (3)—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7/a" id="schedule-4-paragraph-2-7-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for the reporting period ending on 30th June 2024 or 31st December 2024 must be submitted to the appropriate agency by 28th January 2026;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/7/b" id="schedule-4-paragraph-2-7-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for the reporting period ending on 30th June 2025 must be submitted to the appropriate agency by 1st April 2026.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8" id="schedule-4-paragraph-2-8">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>A producer who submits, or a scheme operator or holding company who submits on behalf of a producer—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/a" id="schedule-4-paragraph-2-8-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>an amended report under sub-paragraph (3) for one or more reporting periods; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/b" id="schedule-4-paragraph-2-8-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>a report for the reporting period ending on 31st December 2025 which, under sub-paragraph (6), includes packaging waste referred to in sub-paragraph (5)(a) in the amount of relevant packaging waste reported; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/8/c" id="schedule-4-paragraph-2-8-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>both,</Text>
+</P3para>
+</P3>
+<Text>must pay a charge of £2,548 to the appropriate agency on or before 28th January 2026.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9" id="schedule-4-paragraph-2-9">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>A producer who—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9/a" id="schedule-4-paragraph-2-9-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>wishes to report an amount of closed loop packaging waste to the appropriate agency for one or both reporting periods in 2026, and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/2/9/b" id="schedule-4-paragraph-2-9-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>has applied for producer registration for 2026 before these Regulations come into force,</Text>
+</P3para>
+</P3>
+<Text>must pay the additional registration charge referred to in regulation 29(3)(c) of the 2024 Regulations, as inserted by regulation 6(2)(b) of these Regulations, to the appropriate agency on or before 28th January 2026.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Reports of information for a reporting period ending on 30th June 2025: other transitional provisions</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3" id="schedule-4-paragraph-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/1" id="schedule-4-paragraph-3-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This paragraph applies where, before these Regulations come into force, a large producer has reported information to the appropriate agency under regulation 35 of the 2024 Regulations for the 6-month period ending on 30th June 2025 (in this paragraph, “the relevant reporting period”).</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/2" id="schedule-4-paragraph-3-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Sub-paragraph (3) applies to a large producer who has reported that in the relevant reporting period it supplied packaging in the fibre-based composite material packaging category, or in the paper or board packaging category, or in both those packaging categories.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3" id="schedule-4-paragraph-3-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>The producer may—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3/a" id="schedule-4-paragraph-3-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>submit an amended report to the appropriate agency for the relevant reporting period;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/3/b" id="schedule-4-paragraph-3-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for the purposes of that amended report, determine in accordance with the definitions in regulation 7(5A) of the 2024 Regulations, as inserted by regulation 4(2) of these Regulations, the amounts of packaging which it supplied in the relevant reporting period in the fibre-based composite material packaging category and in the paper or board packaging category.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4" id="schedule-4-paragraph-3-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>Sub-paragraph (5) applies to a large producer who—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4/a" id="schedule-4-paragraph-3-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>has reported under paragraph 12 of Schedule 4 to the 2024 Regulations an amount of relevant packaging waste which the producer has collected from consumers and sent for recycling during the relevant reporting period; but</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/4/b" id="schedule-4-paragraph-3-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>does not have evidence that all of that relevant packaging waste has been recycled.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5" id="schedule-4-paragraph-3-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>The producer must—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5/a" id="schedule-4-paragraph-3-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>submit an amended report to the appropriate agency for the relevant reporting period; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/5/b" id="schedule-4-paragraph-3-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for the purposes of the amended report, not include relevant packaging waste in the amounts that it reports under paragraph 12 of Schedule 4 unless it has evidence that the relevant packaging waste has been recycled.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/6" id="schedule-4-paragraph-3-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>The charge in paragraph 2(3) of Schedule 1 to the 2024 Regulations, or paragraph 3(3) of that Schedule if the report is resubmitted by a scheme operator, is payable for resubmitting a report which is amended in accordance with sub-paragraph (3).</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/7" id="schedule-4-paragraph-3-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>No charge is payable for resubmitting a report, if the report is only amended in accordance with sub-paragraph (5).</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/8" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/8" id="schedule-4-paragraph-3-8">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>An amended report under sub-paragraph (3) or (5) must be submitted to the appropriate agency by 1st April 2026.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/3/9" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/3/9" id="schedule-4-paragraph-3-9">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>Failure to submit an amended report under sub-paragraph (5) in accordance with sub-paragraph (8) is to be treated as a failure to comply with a reporting obligation under regulation 35 of the 2024 Regulations for the purposes of Part 9 and Part 10 of those Regulations.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Reports of information for a reporting period ending on 31st December 2025: other transitional provisions</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4" id="schedule-4-paragraph-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/1" id="schedule-4-paragraph-4-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This paragraph applies in relation to a report by a large producer under regulation 35 of the 2024 Regulations for a period of 6 months or 12 months ending on 31st December 2025 (in this paragraph, “the relevant reporting period”).</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2" id="schedule-4-paragraph-4-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>For the purpose of reporting the weights of packaging, or of a description of packaging, that a producer has supplied in the relevant reporting period in the fibre-based composite material and the paper or board packaging categories, the producer may at its election treat those packaging categories as having—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2/a" id="schedule-4-paragraph-4-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the meanings given in regulation 7(5A) as inserted by these Regulations; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/2/b" id="schedule-4-paragraph-4-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the meanings which they had under the 2024 Regulations before they were amended by these Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3" id="schedule-4-paragraph-4-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>For the purpose of reporting weights of relevant packaging waste under paragraph 12 of Schedule 4 for the relevant reporting period, a producer must—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3/a" id="schedule-4-paragraph-4-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>treat ‘relevant packaging waste’ as having the meaning given in regulation 34(4) as amended by these Regulations; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/4/3/b" id="schedule-4-paragraph-4-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>subject to paragraph 2(6) of this Schedule, report that data in accordance with paragraph 12(1) of Schedule 4 as amended by these Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amended reports: general provisions</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5" id="schedule-4-paragraph-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/1" id="schedule-4-paragraph-5-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>This paragraph applies where an amended report is submitted to the appropriate agency by or in relation to a producer under paragraphs 2(3), 3(3) or 3(5) of this Schedule.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2" id="schedule-4-paragraph-5-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The amended report must be—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/a" id="schedule-4-paragraph-5-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>made in such form and manner as the appropriate agency specifies;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/b" id="schedule-4-paragraph-5-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>as accurate as reasonably possible;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c" id="schedule-4-paragraph-5-2-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>verified by—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c/i" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c/i" id="schedule-4-paragraph-5-2-c-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the signature of an approved person of the producer; or</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c/ii" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/2/c/ii" id="schedule-4-paragraph-5-2-c-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the signature of an approved person of the scheme operator or the holding company, if the amended report is submitted by a scheme operator or a holding company on behalf of the producer.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3" id="schedule-4-paragraph-5-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>For the purposes of Parts 9 and 10 of the 2024 Regulations—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3/a" id="schedule-4-paragraph-5-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>data contained in the amended report is to be treated as if it were data required to be collected under regulation 34 of those Regulations; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/5/3/b" id="schedule-4-paragraph-5-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the amended report is to be treated as if it were submitted under regulation 35 of those Regulations.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Disposal fees for the 2025 assessment year</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6" id="schedule-4-paragraph-6">
+<Pnumber>6</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/1" id="schedule-4-paragraph-6-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Where, after these Regulations come into force, the scheme administrator calculates, or recalculates, a liable producer’s disposal fee for the 2025 assessment year under Part 5 of the 2024 Regulations, for the purpose of that calculation or recalculation regulation 62 has effect without the amendment made by regulation 7(2)(a)(i) of these Regulations.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2" id="schedule-4-paragraph-6-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Sub-paragraph (3) applies where—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2/a" id="schedule-4-paragraph-6-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>under paragraph 2 of this Schedule, an amended report has been submitted to the appropriate agency by or on behalf of a liable producer for a reporting period ending on 30th June 2024 or 31st December 2024 or both; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/2/b" id="schedule-4-paragraph-6-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the charge payable under paragraph 2(8) of this Schedule has been paid.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3" id="schedule-4-paragraph-6-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>Where this sub-paragraph applies, the scheme administrator must—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3/a" id="schedule-4-paragraph-6-3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>recalculate the disposal fee and administration fee payable by that liable producer for the 2025 assessment year; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/3/b" id="schedule-4-paragraph-6-3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in making that recalculation, off-set in accordance with regulation 62(2) of the 2024 Regulations the weight of relevant packaging waste which the liable producer has reported in its reports for 2024 as so amended.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/6/4" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/6/4" id="schedule-4-paragraph-6-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>Where a recalculation of a liable producer’s disposal fee and administration fee under sub-paragraph (3) results in that liable producer’s fees being reduced, the scheme administrator is not to recalculate and increase the disposal fees and administration fees of other liable producers in consequence of that reduction.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Disposal fees for the 2026 assessment year</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/7" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/7" id="schedule-4-paragraph-7">
+<Pnumber>7</Pnumber>
+<P1para>
+<Text>In relation to the calculation of disposal fees for the 2026 assessment year, regulation 62(2A) of the 2024 Regulations has effect as if the reference in that paragraph to the additional registration charge payable under regulation 29(3)(c) were a reference to the charge payable under paragraph 2(8) of this Schedule.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Reprocessors and exporters: charities</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8" id="schedule-4-paragraph-8">
+<Pnumber>8</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1" id="schedule-4-paragraph-8-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Regulation 85 of the 2024 Regulations (registration: reprocessors) applies to a reprocessor which is a charity, and regulation 86 (registration: exporters) applies to an exporter which is a charity, as if—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1/a" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1/a" id="schedule-4-paragraph-8-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the date specified in paragraph (1) of each of those regulations was 1st January 2027; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1/b" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8/1/b" id="schedule-4-paragraph-8-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the date specified in paragraph (3)(a) of each of those regulations was 1st October 2026.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8/2" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8/2" id="schedule-4-paragraph-8-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The offences in regulation 117(1)(a) and (b) of the 2024 Regulations (operating a reprocessing site or exporting packaging waste without being registered) do not apply to a charity before 1st January 2027.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/schedule/4/paragraph/8/3" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/schedule/4/paragraph/8/3" id="schedule-4-paragraph-8-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>The powers of an enforcement agency under regulation 121 of the 2024 Regulations (civil sanctions) to impose a civil sanction for contravention of regulation 85 or 86 of those Regulations do not apply to a charity before 1st January 2027.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/ukdsi/2025/9780348276176/note" IdURI="http://www.legislation.gov.uk/id/ukdsi/2025/9780348276176/note">
+<Title>Explanatory Note</Title>
+<Comment>
+<Para>
+<Text>(This note is not part of the Regulations)</Text>
+</Para>
+</Comment>
+<P>
+<Text>These Regulations amend the Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2024/1332" id="c00004" Year="2024" Number="1332" Class="UnitedKingdomStatutoryInstrument">S.I. 2024/1332</Citation>) (“<Term>the 2024 Regulations</Term>”).</Text>
+</P>
+<P>
+<Text>Regulation 4(2) amends regulation 7 of the 2024 Regulations (packaging and packaging categories) by amending the definition of “fibre-based composite material” and inserting a definition of “paper or board”, two of the packaging categories prescribed in the 2024 Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 4(5) amends regulation 12 of the 2024 Regulations (exclusion of charities) so that, instead of being excluded from the application of the 2024 Regulations in their entirety, charities are only excluded from the application of provisions of the 2024 Regulations which impose obligations on producers.</Text>
+</P>
+<P>
+<Text>Regulation 5(1) and (2) amend provisions in Part 2 of the 2024 Regulations (producers and obligations) which define classes of producers and specify the packaging in relation to which they are producers for the purposes of the Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 5(6) and Schedule 1 insert new regulations 27A (corporate mergers), 27B (transfers of ownership of a brand or business) and 27C (transfers of ownership: further obligations where the transferor is a large producer) in the 2024 Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 6 amends regulation 34 of the 2024 Regulations (record-keeping obligations) to require records and evidence to be kept by producers who collect and send certain packaging waste for recycling in a closed loop recycling arrangement.</Text>
+</P>
+<P>
+<Text>Regulation 7 and Schedule 2 amend provisions in Part 5 of the 2024 Regulations (disposal costs) about the calculation of disposal fees and administration fees payable by liable producers. Among other things, these amendments—</Text>
+<UnorderedList Decoration="bullet">
+<ListItem>
+<Para>
+<Text>enable closed loop packaging waste, defined in regulation 34(5A) of the 2024 Regulations as inserted by regulation 6(4)(e), to be offset against the weight of household packaging waste supplied by a liable producer which is used in calculating the producer’s disposal fees;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>enable the scheme administrator to take into account, in modulating liable producers’ disposal fees for household packaging waste, whether the amount of packaging used by a producer is no more than reasonably necessary to fulfil its purpose; and</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>make provision for the late assessment of a liable producer’s disposal and administration fees.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P>
+<P>
+<Text>Regulation 10 amends regulations 115 and 118 of the 2024 Regulations (offences), and regulation 16 amends the table of civil sanctions in Schedule 13 to the 2024 Regulations. The amendment to regulation 118 makes it an offence in Scotland for pub operating businesses and licensors to fail to comply with obligations in Schedule 10 to the 2024 Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 12 amends the charges prescribed in Schedule 1 to the 2024 Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 13 amends Schedule 4 to the 2024 Regulations (producer reporting information) to include a requirement to report closed loop packaging waste.</Text>
+</P>
+<P>
+<Text>Regulation 14 and Schedule 3 amend Schedule 7 to the 2024 Regulations (the scheme administrator) to confer power on the scheme administrator to appoint one or more other bodies (a “Producer Responsibility Organisation”) to carry out on its behalf such of the scheme administrator’s functions as are specified in the appointment.</Text>
+</P>
+<P>
+<Text>Other minor and consequential amendments are also made to the 2024 Regulations.</Text>
+</P>
+<P>
+<Text>Regulation 18 and Schedule 4 contain transitional provisions.</Text>
+</P>
+<P>
+<Text>A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sector is foreseen.</Text>
+</P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2021/30" id="c00005" Year="2021" Number="30" Class="UnitedKingdomPublicGeneralAct">2021 c. 30</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2024/1332" id="c00006" Year="2024" Number="1332" Class="UnitedKingdomStatutoryInstrument">S.I. 2024/1332</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para>
+<Text>EUR 2011/10.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00004">
+<FootnoteText>
+<Para>
+<Text>EUR 2008/282.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00005">
+<FootnoteText>
+<Para>
+<Text><ExternalLink Title="GOV.UK website" URI="https://www.gov.uk/government/publications/uk-joint-policy-statement-on-extended-producer-responsibility-for-packaging">https://www.gov.uk/government/publications/uk-joint-policy-statement-on-extended-producer-responsibility-for-packaging</ExternalLink>
+</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00006">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2023/54" id="c00007" Year="2023" Number="54" Class="UnitedKingdomPublicGeneralAct">2023 c. 54</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

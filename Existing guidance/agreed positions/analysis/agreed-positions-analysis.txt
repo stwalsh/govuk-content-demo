@@ -1,0 +1,366 @@
+# Agreed Positions Document - Structural Analysis
+# Generated: 12 January 2026
+# Source: Existing guidance/agreed positions/agreed-positions-clean.md
+
+================================================================================
+## 1. DOCUMENT OUTLINE
+================================================================================
+
+Total Length: 4,191 lines
+
+INTRODUCTION & NAVIGATION (Lines 1-152)
+- Document title, version (7.0), date (6 October 2025)
+- Intended audience and disclaimers
+- Links to additional GOV.UK guidance
+- Summary of roles and responsibilities (Regulators, Defra, PackUK)
+- Contact information for each regulator
+
+PART 1: WHAT IS PACKAGING? (Lines 153-315)
+- 1:1 Regulators' interpretation of packaging (Lines 153-298)
+  Defines packaging functions (containment, protection, handling, delivery,
+  presentation) and four packaging types (primary, secondary, tertiary, shipment)
+  with worked examples
+- 1:2 Six steps decision chart (Line 299)
+  Visual flowchart for determining if something is packaging
+- 1:3 Six steps explanation (Lines 300-315)
+  Detailed walkthrough of the decision logic
+
+PART 2: PACKAGING PRODUCER OBLIGATIONS (Lines 318-683)
+- 2:1 Producer functions and reporting terminology (Lines 320-378)
+  Table defining 8 producer functions with reporting codes and descriptions
+- 2:2 Producer Threshold Criteria (Lines 380-426)
+  2x2 matrix showing when producers are obligated (tonnage x turnover)
+- 2:3 Producer years (Lines 437-526)
+  Explains Y-2, Y-1, and Y framework with timeline table and examples
+- 2:4 Packaging supplied calculation (Lines 528-585)
+  Rules for counting packaging, avoiding double-counting, worked example
+- 2:5 Turnover threshold (Lines 587-595)
+  How to determine relevant date (7 April) and which accounts to use
+- 2:6 When a person ceases to be a producer (Lines 597-631)
+  Three detailed scenarios with examples plus impact on disposal fees
+- 2:7 Small Producers (Lines 633-637)
+  Clarification that only large producers have recycling obligations
+- 2:8 Producer data reporting (Lines 639-680)
+  Requirements for RPD account creation, approved persons, delegates
+
+PART 3: AGREED POSITIONS (Lines 685-1657)
+27 specific topics:
+
+- 3:1 Household Packaging (Lines 689-713)
+  Two-test framework for classifying packaging as household vs non-household
+- 3:2 Supply (Lines 715-763)
+  Rules for sale or return, maintenance/repair, delivery/installation, branded
+- 3:3 Established in the UK (Lines 765-807)
+  Definition including branches, PO boxes; overseas producer rules
+- 3:4 Brands and brand owners (Lines 785-811)
+  Definition of brand, brand owner responsibility, overseas brand owners
+- 3:5 Multi-branded packaging (Lines 815-868)
+  Dual/multi-branded rules, multi-brand within single sales unit
+- 3:6 Interpretation of forming part of branded packaging (Lines 870-903)
+  Assessment of whether each packaging type is branded
+- 3:7 Importer (Lines 907-967)
+  What must be reported as importer, brand owner import responsibility
+- 3:8 First UK owner (Lines 969-978)
+  Definition and toll manufacturing examples
+- 3:9 Online marketplace (Lines 981-993)
+  OMP reporting rules for filled/unfilled packaging
+- 3:10 Drink containers (Lines 995-1041)
+  Criteria for single-use drink container classification
+- 3:11 Packaging materials (Lines 1043-1077)
+  Multi-material, composite, fibre-based composite rules
+- 3:12 Unfilled packaging (Lines 1079-1135)
+  Distributor rules, branded unfilled, ownership at pack/filling point
+- 3:13 Interpretation of manufacturer (Lines 1137-1230)
+  Definition of "finished" packaging, substantial modifications
+- 3:14 Charity exclusion (Lines 1232-1236)
+  Charities exempt but linked profit-making entities are not
+- 3:15 Holding Companies & Subsidiaries (Groups) (Lines 1238-1278)
+  Group definition, threshold test, overseas entities, group accounts
+- 3:16 Cross-border arrangements (Lines 1280-1287)
+  GB/NI movements; Channel Islands and Isle of Man outside UK
+- 3:17 Reusable packaging (Lines 1290-1354)
+  Definition, conditions, reuse system requirement, service provider rules
+- 3:18 Exempt packaging (Lines 1356-1379)
+  Exports, duty free shops, reused packaging
+- 3:19 Packaging repairs (Lines 1380-1389)
+  When repaired packaging must/must not be reported
+- 3:20 Shredding cardboard for void-fill (Lines 1394-1398)
+  Recycling activity requiring dual reporting
+- 3:21 Self-managed packaging waste (Lines 1400-1421)
+  SMOW vs SMCW reporting distinction
+- 3:22 Catering and hospitality (Lines 1424-1450)
+  Vending cups, tableware, sauces/sachets, straws/cutlery rules
+- 3:23 Labels (Lines 1452-1482)
+  When labels perform packaging function, brands for distribution
+- 3:24 Packaging around waste (Lines 1484-1498)
+  When packaging around goods for recycling is obligated
+- 3:25 Insolvency and incapacity (Lines 1500-1629)
+  Exceptions and transfer of obligations when producer ceases
+- 3:26 Licensors, franchisors, and pub operating businesses (Lines 1522-1583)
+  Data collection obligations by licensee status
+- 3:27 Transitional packaging reports (Lines 1587-1657)
+  2007 Regulations overlap calculation
+
+PART 4: APPENDICES (Lines 1659-4191)
+
+- Appendix 1: Determining household packaging (Lines 1681-1689)
+  Flow diagram reference plus notes on commonly binned packaging
+- Appendix 2: Potential supply routes (Lines 1691-2614)
+  Large 100+ row table showing who reports what in different scenarios
+- Appendix 3: Packaging status of specific items (Lines 2616-3387)
+  150+ item reference table (Airline packaging to Wrapping paper)
+- Appendix 4: Label examples (Lines 3392-3408)
+  8-row table on specific label types
+- Appendix 5: Packaging material examples (Lines 3412-3551)
+  Material classification table
+- Appendix 6: Commonly binned packaging (Lines 3556-3612)
+  List with multipack rules, weight thresholds
+- Appendix 7: Self-managed packaging waste flow (Lines 3614-3630)
+  Flow diagram with SMOW/SMCW determination
+- Appendix 8: Reporting obligations (Lines 3632-3655)
+  Schedule 4 requirements by producer function
+- Appendix 9: Regulator approach to group mid-year changes (Lines 3657-3884)
+  5 detailed tables covering join/leave/move scenarios
+- Appendix 10: Distributor Guidance (Lines 3888-4087)
+  Comprehensive guide including flowchart, threshold evidence
+- Appendix 11: Version control table (Lines 4093-4189)
+  Summary of changes from Version 6
+
+
+================================================================================
+## 2. CONTENT TYPES CATEGORIZATION
+================================================================================
+
+DEFINITIONS/INTERPRETATIONS (What counts as X):
+- Packaging functions (Lines 154-160)
+- Packaging types (Lines 161-186)
+- Producer functions (Lines 320-378)
+- Reusable packaging definition (Lines 1298-1305)
+- Brand definition (Lines 787-789)
+- Established in the UK definition (Lines 767-775)
+- Substantial modification definition (Lines 1147-1151)
+- Finished packaging definition (Lines 1142-1145)
+
+DECISION LOGIC (If X then Y):
+- Six-step packaging identification test (Lines 299-315)
+- Household packaging two-test framework (Lines 695-701)
+- Producer threshold matrix (Lines 386-426)
+- Group threshold test (Lines 1248-1256)
+- Distributor responsibility flowchart (Lines 3904-3916)
+- Self-managed waste type determination (Lines 3618-3627)
+
+OBLIGATIONS/REQUIREMENTS (You must do X):
+- Producer registration and data reporting (Lines 641-656)
+- Approved persons requirements (Lines 661-680)
+- Large producer reporting 6-monthly vs small producer annual (Lines 3632-3655)
+- Self-managed consumer waste reporting criteria (Lines 1416-1420)
+- Reusable packaging documentation requirement (Lines 1320-1322)
+- Distributor evidence retention (Lines 3982-3983)
+- Exporters' audit trail requirements (Lines 1360-1364)
+
+PROCESS/PROCEDURE (How to do X):
+- Packaging supplied calculation methodology (Lines 528-585)
+- Turnover threshold assessment process (Lines 587-595)
+- How to establish large producer status (Lines 3918-3937)
+- How to determine household vs non-household (Appendix 1)
+- Distributor reporting steps (Lines 3980-4087)
+- Group registration procedures (Lines 1266-1272)
+
+REFERENCE DATA (Lists, codes, examples):
+- Packaging status of 150+ specific items (Appendix 3)
+- Label example decisions (Appendix 4)
+- Material classification (Appendix 5)
+- Commonly binned packaging list (Appendix 6)
+- Supply route scenarios (Appendix 2)
+- Producer functions reporting codes (Lines 326-376)
+
+EDGE CASES/EXCEPTIONS:
+- Charity exclusion (Lines 1232-1236)
+- Durable packaging exception (Lines 301-302)
+- Export exemption (Lines 1358-1364)
+- Reused packaging exemption (Lines 1372-1378)
+- Duty-free goods (Lines 1366-1370)
+- Internal-use packaging (Lines 1123-1129)
+- Insolvency/incapacity exceptions (Lines 1500-1629)
+
+
+================================================================================
+## 3. TABLE INVENTORY
+================================================================================
+
+CRITICAL/ESSENTIAL TABLES (must maintain tabular format):
+
+Line 326-376: Producer Functions & Reporting Terminology
+  - 7 producer functions with codes, terminology, descriptions
+  - ESSENTIAL: decision table for routing
+
+Line 386-426: Producer Threshold Criteria
+  - Tonnage x Turnover matrix determining obligation status
+  - ESSENTIAL: reference matrix
+
+Line 499-506: Producer Years Timeline
+  - Year Y calendar overlaps (5 years shown)
+  - ESSENTIAL: temporal reference
+
+Line 552-581: Packaging Supplied Calculation Example
+  - Manufacturer supply routes to different packer types
+  - ESSENTIAL: worked example showing double-counting rules
+
+Line 667-674: Approved Person by Legal Entity
+  - Defines who can be approved person for each entity type
+  - ESSENTIAL: regulatory requirement
+
+Line 857-864: Multi-Branded Sales Unit Example
+  - Hamper contents with brand status and obligated producer
+  - ESSENTIAL: illustrative of decision logic
+
+Line 878-902: Branded Assessment by Packaging Type
+  - Four packaging types with brand assessment for each
+  - ESSENTIAL: applies to each type separately
+
+Line 1011-1038: Drink Container Reporting by Material
+  - Glass vs PET/Steel/Aluminium requirements
+  - ESSENTIAL: material-specific rules
+
+Line 1186-1218: Packaging Item Manufacturer Determination
+  - 5 items showing who manufactures
+  - ESSENTIAL: complex multi-component cases
+
+Line 1534-1583: Licensor/Franchisor Data Collection
+  - Licensee status x Packaging type x Obligation matrix
+  - ESSENTIAL: franchise-specific rules
+
+Line 1615-1657: Transitional Packaging Calculation
+  - 2007 Regulations activity percentages x packaging weight
+  - ESSENTIAL: complex calculation walkthrough
+
+Line 1697-2614: Potential Supply Routes (Appendix 2)
+  - 50+ scenarios with reporting responsibility
+  - ESSENTIAL: decision support table
+
+Line 2620-3387: Packaging Status of Specific Items (Appendix 3)
+  - 150+ items with obligated status and comments
+  - ESSENTIAL: reference lookup
+
+Line 3394-3407: Label Examples (Appendix 4)
+  - 8 label types with obligated status
+  - ESSENTIAL: reference table
+
+Line 3420-3550: Packaging Material Classification (Appendix 5)
+  - Material types with required reporting classification
+  - ESSENTIAL: reporting requirement
+
+Line 3562-3612: Commonly Binned Packaging (Appendix 6)
+  - Items with commonly-binned categorization
+  - ESSENTIAL: reporting classification
+
+Line 3636-3655: Large & Small Producer Reporting Obligations (Appendix 8)
+  - 14 data points by producer function
+  - ESSENTIAL: regulatory requirement specification
+
+Lines 3674-3883: Group Mid-Year Changes Tables 1-5 (Appendix 9)
+  - Complex temporal scenarios for group changes
+  - ESSENTIAL: complex case handling
+
+COULD POTENTIALLY BE PROSE:
+- Line 1534-1583 (Licensor table) - complex but could use decision trees
+- Line 499-506 (Producer years) - could be described but matrix is clearer
+- Line 1011-1038 (Drink containers) - could be bulleted lists by material
+
+FLOWCHARTS/DIAGRAMS (visual decision tools):
+- Line 299: Six-step decision chart for packaging identification
+- Line 1683: Household packaging decision tree (Appendix 1)
+- Line 3908: Distributor responsibility flowchart (Appendix 10)
+- Line 3628: Self-managed waste type flowchart (Appendix 7)
+
+
+================================================================================
+## 4. CROSS-REFERENCES
+================================================================================
+
+INTERNAL CROSS-REFERENCES (within document):
+- Lines 711-712: References to Appendix 1 for household packaging
+- Lines 868-869: References to Appendix 2 for supply routes
+- Lines 921-922: References to Appendix 2 for import supply routes
+- Lines 1091-1092: References to Appendix 10 for distributor guidance
+- Lines 1113-1114: References to Appendix 2 for unfilled branded packaging
+- Lines 1410-1412: References to Appendix 7 for self-managed waste flowchart
+
+EXTERNAL REFERENCES TO GOV.UK GUIDANCE:
+- Extended producer responsibility for packaging: Guidance collection
+- Packaging data: what to collect for EPR
+- How to assess household and non-household packaging
+- Register and pay the fee
+- Report packaging data service
+- Recycling assessment methodology
+- Packaging data file specification
+- Plastic Packaging Tax guidance
+- Check if your material is waste
+
+EXTERNAL REFERENCES TO REGULATIONS:
+- Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024
+- Producer Responsibility Obligations (Packaging Waste) Regulations 2007
+- Packaging (Essential Requirements) Regulations 2015
+- Human Medicines Regulations 2012
+- Plant Varieties Act 1997
+- Charities Act 2011
+- Corporation Tax Act 2010
+
+REGULATOR CONTACT POINTS:
+- Environment Agency (England): packagingproducers@environment-agency.gov.uk
+- DAERA (Northern Ireland): packaging@daera-ni.gov.uk
+- Natural Resources Wales: packaging@naturalresourceswales.gov.uk
+- SEPA (Scotland): producer.responsibility@sepa.org.uk
+- Defra helpdesk: EPRCustomerService@defra.gov.uk
+
+
+================================================================================
+## 5. RESTRUCTURING OPTIONS
+================================================================================
+
+OPTION A: ABSORB INTO EXISTING GUIDANCE
+- Map each section to existing GOV.UK pages
+- Add detail where gaps exist
+- Pro: Users find info where they already look
+- Con: Could bloat pages; some content orphaned
+
+OPTION B: THEMED STANDALONE PAGES
+- Create focused pages by topic (e.g., "Reusable packaging", "Online marketplaces")
+- Pro: Clear, searchable; can go deep on complex topics
+- Con: More pages to maintain; may duplicate context
+
+OPTION C: REFERENCE ANNEXES
+- Keep big lookup tables as dedicated reference pages
+- Absorb narrative content elsewhere
+- Pro: Separates "look this up" from "understand this"
+- Con: Users need to know the reference exists
+
+OPTION D: USER-JOURNEY RESTRUCTURE
+- Reorganise around tasks: Check if affected → Register → Report → Handle changes
+- Pro: Most user-friendly
+- Con: Biggest lift; may fragment related interpretations
+
+RECOMMENDED: HYBRID APPROACH
+- Core process (thresholds, registration, reporting cycles) → Absorb into existing
+- Complex reference tables (items, materials, supply routes) → Standalone lookup pages
+- Interpretive topics (brands, reusable, distributors, groups) → New themed pages
+- Edge cases (charities, insolvency, repairs) → Contextual placement
+- Decision flowcharts → Could become interactive tools
+
+
+================================================================================
+## 6. SUGGESTED TASK BREAKDOWN
+================================================================================
+
+PHASE 1: ANALYSIS
+1. Gap analysis - What's in agreed positions but NOT in existing guidance?
+2. Conflict analysis - Where does it contradict existing guidance?
+3. User need mapping - Which topics cause most confusion?
+
+PHASE 2: STRUCTURE DECISIONS
+4. Triage each section - Categorise as: absorb / standalone / reference / defer
+5. Dependency mapping - Identify teaching order
+
+PHASE 3: DRAFTING
+6. Draft in priority order - Highest-value topics first
+7. Cross-reference audit - Track what links to what

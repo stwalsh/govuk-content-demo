@@ -1,0 +1,19 @@
+{
+  "mappings": [
+    {
+      "local": "Existing guidance/who is affected.md",
+      "govuk": "/guidance/check-if-you-need-to-register-for-extended-producer-responsibility-for-packaging",
+      "description": "Who is affected by EPR"
+    },
+    {
+      "local": "Existing guidance/register.md",
+      "govuk": "/guidance/how-to-register-for-extended-producer-responsibility-for-packaging",
+      "description": "How to register"
+    },
+    {
+      "local": "Existing guidance/fees and obligations.md",
+      "govuk": "/guidance/extended-producer-responsibility-for-packaging-what-large-producers-need-to-do",
+      "description": "Fees and obligations"
+    }
+  ]
+}

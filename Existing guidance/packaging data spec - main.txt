@@ -1,0 +1,625 @@
+# File specification for packaging data from 2025 
+
+
+This guidance explains how to compile and structure your data submission for extended producer responsibility (EPR) for packaging. 
+  
+## Packaging data you need to submit
+
+You’ll need to include these 4 categories of data when you submit your EPR for packaging data: 
+
+- packaging activity 
+- packaging type 
+- packaging class 
+- packaging material and weight 
+
+For a detailed description of the different types of data you need to submit, read the guidance on [how to collect your packaging data for extended producer responsibility](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility).
+
+Large producers may also need to submit recyclability assessment data about some packaging types, but there is a regulatory position statement in place. Read the following section. 
+
+### Recyclability assessment data: June 2025 regulatory position statement 
+
+The environmental regulators have issued a statement on collecting and reporting data under the RAM.
+
+This only applies to Recyclability Assessment Methodology (RAM) data collection and reporting. It does not apply to any other data you must collect and report for EPR for packaging.
+
+Read [PackUK's statement on recyclability assessment](https://www.gov.uk/government/publications/packuk-common-2025-recyclability-assessment-requirements/packuk-2025-recyclability-assessment-requirements). This links to regulatory position statements from each of the four regulators. Check the statement from your regulator to understand how this affects your data submission.
+
+^Report flexible and rigid subtypes of plastics even if you are not submitting recyclability data.
+
+## How to submit your data
+
+To submit your packaging data, you’ll need to create an account with the [‘report packaging data’ service](/government/admin/detailed-guides/1472620).
+
+[Find out if you are a small or large organisation for EPR for packaging](https://www.gov.uk/guidance/packaging-waste-prepare-for-extended-producer-responsibility#what-you-may-need-to-do). 
+
+You’ll need to submit your data in a comma-separated values (CSV) file.  
+
+You should include all the required packaging data in a single CSV file. You’ll be able to upload this file to the [report packaging data service](/government/admin/detailed-guides/1472620). 
+
+You should only submit completed data files. If you leave out any required information, the file won't be validated and will not be uploaded to your account. If you need to provide additional data, you should replace the previously uploaded file with a new version. 
+
+The data you submit should be as accurate as reasonably possible.
+
+### Deadlines for reporting packaging data
+
+Large organisations should report their data for January to June 2025 by 1 October 2025.
+
+[Separate guidance explains the reporting periods and deadlines for submitting packaging data](https://www.gov.uk/guidance/packaging-data-check-reporting-periods-and-submission-deadlines) in more detail.
+
+^If you have not reported your data by the appropriate deadline, contact your environmental regulator.
+
+### Help creating a packaging data file
+
+If you need help creating a packaging data CSV, you can use the ['generate a packaging data file'](/government/admin/publications/1470733) tool to: 
+
+- generate a valid packaging data file
+- check how your file should be structured before creating one yourself
+
+You can also [look at the packaging data example file](/government/admin/publications/1463491) to see how your packaging data should be structured.
+
+Read more about [using the CSV file format](https://www.gov.uk/guidance/using-csv-file-format). This guidance about CSV files is aimed at government employees, but the sections from ‘Setting up your CSV file’ onwards contain useful general information.
+
+## How to structure your data submission
+
+Table 1 shows the overall structure you should use for your data file.  
+
+Your CSV data file should include columns for each of the categories numbered 1 to 15 in Table 1.  
+
+Add a separate row of data for each packaging activity and each type of packaging you need to report.  
+
+Your data must start on the first row following the header row. Do not include blank rows. 
+
+For example: 
+
+- if you supply 50kg of primary cardboard packaging under your own brand, you should report this on one row 
+- if you also import 25kg of secondary cardboard packaging under your own brand, you should report this on a separate row
+
+[Look at the packaging data example files](/government/admin/publications/1463491) to see how your packaging data should be structured.
+
+
+**Table 1: Packaging data file structure**
+
+
+| Order <br>(CSV column letter)  | Name <br>(CSV column header)                     | Description                                                                                                                                                                                                                 | Value                                                                                      |
+|---------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 1  (A)     | Organisation ID <br>(organisation_id)                    | The identification number assigned to an organisation when they create an account.                                                                                                                                          | A 6-digit number with no spaces.                                                                         |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                      | An identification number assigned to a subsidiary by its parent company.                                                                                                                                       | Alphanumeric entry. Maximum 32 characters.          |
+| 3 (C)      | Organisation size <br>(organisation_size)                   | Obligated organisations are either small (S) or large (L).                                                                                                                                                                  | S or L.                                                                                     |
+| 4 (D)      | Time period for submission <br>(submission_period)            | The period covered by the data you're submitting |  Use the relevant [time period code](#time-period-codes).      |                        
+| 5 (E)     | Packaging activity <br>(packaging_activity)                  | Classification of how you placed the packaging on the UK market.  | Use the relevant [packaging activity code](#packaging-activity-codes).                                                  |
+| 6 (F)      | Packaging type <br>(packaging_type)                       | For example, household or non-household.                                                                                                                                                                                    | Use the relevant [packaging type code](#packaging-type-codes).                                                      |
+| 7 (G)       | Packaging class <br>(packaging_class)                     | For example, primary, secondary, shipment or tertiary.                                                                                                                                                                      | Use the relevant [packaging class code](#packaging-class-codes).                                                     |
+| 8 (H)     | Packaging material <br>(packaging_material)                  | The type of material used in the relevant packaging class.    | Use the relevant [packaging material code](#packaging-material-codes).                                                  |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)          | Where applicable, the subtype of material used in the relevant packaging class. <br><br>Only for use when the packaging material is OT (other) or PL (plastic) .<br><br>Leave blank if it does not apply.                                            | Give the name of the relevant [packaging material subtype](#packaging-subtypes).                                  |
+| 10 (J)      | From (country in UK) <br>(from_country)                 | The country in the UK that the packaging waste originates from. <br><br>Only for use with the packaging types CW (self-managed consumer waste) and OW (self-managed organisation waste). <br><br>Leave blank if it does not apply.  | Use the relevant [UK country code](#country-codes).                                                          |
+| 11 (K)      | To (country in UK) <br>(to_country)                  | The country in the UK that the packaging waste is sent to. <br><br>Only for use with the packaging types CW (self-managed consumer waste) and OW (self-managed organisation waste). <br><br>Leave blank if it does not apply.       | Use the relevant [UK country code](#country-codes).                                                          |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)           | The quantity of each packaging material in kilograms.  | Use digits only, in whole numbers.<br> <br>Do not include the words ‘kilograms’ or ‘kgs’.  |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | The quantity of individual packaging units. <br><br>Only for use when reporting on drinks containers.  <br><br>If it does not apply, leave blank.                                                                                   | Use digits.                                                                                |
+| 14 (N) | Weight of transitional packaging (transitional_packaging_units) 	| This is not needed for 2025 data. | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | The recyclability assessment methodology rating for this packaging (household packaging supplied by large producers only)| Use the relevant [recyclability assessment methodology code](#ram-codes) |
+
+##Data fields and codes 
+
+This section lists the different fields that you can report on for each category of data.  
+
+There is a code for most fields. Always use the relevant codes in your data submission. Do not use the field names.  
+
+### Time period codes
+
+The period covered by the data you’re submitting. 
+
+#### Codes for 2024 data
+
+| Time period | Code |
+|-|-|
+| January to June 2024 |  2024-P1  |
+| April to June 2024 |  2024-P2 |
+| May to June 2024 | 2024-P3 |
+| July to December 2024 | 2024-P4 |
+| January to December 2024  (small producers only) | 2024-P0 |
+
+#### Codes for 2025 data
+
+| Time period | Code |
+|-|-|
+| January to June 2025 |  2025-H1 |
+| July to December 2025 |  2025-H2 |
+| January to December 2025 (small producers only) | 2025-P0 |
+
+
+### Packaging activity codes
+
+{:#packaging-activity-codes}
+
+**Table 2: Packaging activity codes**
+
+| Code  | Name                                                 | Description                                                                                                                                       |
+|-------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| SO    | Supplied under your brand                            | Packaging for goods supplied under your own brand.                                                                                                |
+| PF    | Packed or filled as unbranded                        | Unbranded packaging you have placed goods into, for your own organisation or another organisation, as well as branded packaging you’ve placed goods into, for your own organisation or another organisation, if the brand owner is not a large producer.                                               |
+| IM    | Imported                                             | Some packaged goods you have imported and discarded or imported and supplied in the UK, or of which you're the 'first UK owner'  <br><br>[Read more details on what types of packaging are included](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#packaging-activity-data).  |
+| SE    | Supplied as empty                                    | Empty packaging you’ve made or imported and then supplied to an organisation that is not a large organisation.                                    |
+| HL    | Hired or loaned                                      | Reusable packaging that is hired or loaned out for the first time.                                                                                                     |
+| OM    | Supplied through an online marketplace that you own  | Filled or unfilled packaging supplied to the UK market from outside the UK through an online marketplace.                                 |
+
+###Packaging type codes 
+
+You must break your data down into the relevant packaging types.  
+
+{:#packaging-type-codes}
+
+Read detailed descriptions of each packaging type in the guidance [Packaging data: what to collect for extended producer responsibility](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#packaging-type-data). 
+
+**Table 3: Packaging type codes**
+
+| Code  | Name                                | Description                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HH    | Household packaging                 | Most primary or shipment packaging is household packaging. This can include packaging supplied to a business.  <br><br>Read a [more detailed description of household packaging](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#household-and-non-household-packaging). <br><br>Do not include packaging that’s classed as single-use drinks containers. Report this under the packaging type HDC (household drinks containers) or NDC (non-household drinks containers).                                                       |
+| NH    | Non-household packaging             | All secondary and tertiary packaging is non-household. Some primary or shipment packaging may be non-household, where you have evidence that this is the case.  <br><br>Read a [more detailed description of non-household packaging](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#household-and-non-household-packaging). <br><br>Do not include packaging that’s classed as single-use drinks containers. Report this under the packaging type HDC (household drinks containers) or NDC (non-household drinks containers).  |
+| CW    | Self-managed consumer waste         | Packaging waste recovered from consumers. This may include: <br><br>packaging waste recovered from consumers that you collect through a self-managed recycling scheme  <br>reusable packaging waste you have recovered from consumers and sent for recycling.<br><br>Read a [more detailed description of self-managed waste](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#self-managed-waste).                                                                                                                                   |
+| OW    | Self-managed organisation waste     | Packaging waste, which you have collected yourself on-site. <br><br>Read a [more detailed description of self-managed waste](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#self-managed-waste).                                                                                                                                                                                                                                                                                                         |
+| PB    | Commonly ends up in public bins     | Household packaging that commonly ends up in public bins.  <br><br>Read a [detailed description of packaging that commonly ends up in public bins](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#packaging-that-commonly-ends-up-in-public-bins).                                                                                                                                                                                                                                                                                             |
+| RU    | Reusable packaging                  | You only need to report reusable packaging, such as pallets, the first time it’s supplied.   <br><br>You should also include reusable packaging in the household and non-household packaging that you report the first time it is used.                                                                                                                                                                                             |
+| HDC   | Household drinks containers         | Packaging that fits the definition of household packaging but is also classed as single-use drinks containers. <br><br>Read about [how to categorise drinks containers data](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#drinks-containers).                                                                                                                                                                                                                                                  |
+| NDC   | Non-household drinks containers     | Packaging that fits the definition of non-household packaging but is also classed as single-use drinks containers. <br><br>Read about [how to categorise drinks containers data](https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility#drinks-containers).                                                                                                                                                                                                                                              |
+| SP    | Small organisation packaging - all  | The combined total of all your packaging, excluding drinks containers. <br><br>For use by small organisations only.                                                                                                                                                                                                                                                                                                                 |
+
+For each packaging type you report on, you’ll need to break it down into other categories, including packaging class, material, weight and quantity.  
+
+The section ‘Packaging type reporting rules’ explains how to combine the different categories of data.
+
+###Packaging class codes 
+
+Packaging class provides more information about the type of packaging - for example, whether it is primary, secondary, shipment or tertiary. 
+
+{:#packaging-class-codes}
+
+**Table 4: Packaging class codes**
+
+| Code  | Name                                | Description                                                                                                                                                             |
+|-------|-------------------------------------|--------------------------------------------------------------------------------------------|
+| P1    | Primary packaging                   | Packaging used to contain a single ‘sales unit’ to sell to the final user at the point of purchase.                                                                                                   |
+| P2    | Secondary packaging                 | Packaging used to group several sales units together on a shop shelf or for supply to the final user.  |
+| P3    | Shipment packaging                  |   Packaging used to facilitate the handling and transport of one or more units or groupings of sales units to a consumer. |
+| P4    | Tertiary packaging                  | Packaging intended to facilitate the handling and transport of one or more units or groupings of sales units to a business. |
+| P5    | Non-primary reusable packaging      | The combined total of secondary, shipment and tertiary reusable packaging. <br><br>Only for use with the packaging type RU (reusable packaging).                            |
+| P6    | Online marketplace total            | The combined total of all packaging supplied through an online marketplace. <br><br>Only for use with the packaging activity OM.                               |
+| O1    | Self-managed consumer waste - all   | Total packaging reported under the packaging type CW (self-managed consumer waste).                                                                                     |
+| O2    | Organisation waste - origin         | Packaging waste you have collected yourself in each country of the UK. <br><br>Only for use with the packaging type OW (self-managed organisation waste).                       |
+| B1    | Public bin                          | Packaging reported under the packaging type PB (commonly ends up in public bins).                                                                                       |
+
+###Packaging material codes 
+
+Report the weight of the individual materials used in the packaging you have supplied. You must report each material type separately. 
+
+{:#packaging-material-codes}
+
+If you need to submit data for a material subtype, give the name of the material. There are no codes for material subtypes 
+
+**Table 5: Packaging material codes**
+
+| Code  | Name             | Notes                                                                                         |
+|-------|------------------|-----------------------------------------------------------------------------------------------|
+| AL    | Aluminium        |                                                                                               |
+| FC    | Fibre composite  | Check the [regulatory position statement](https://www.gov.uk/government/publications/extended-producer-responsibility-for-packaging-pepr-fibre-based-composite-and-paper-and-board-obligations-rps-351/extended-producer-responsibility-for-packaging-pepr-fibre-based-composite-and-paper-and-board-obligations-rps-351) for a definition.  |
+| GL    | Glass            |                                                                                               |
+| PC    | Paper or card    |                                                                                               |
+| PL    | Plastic          |  Give the material subtype - 'Rigid' or 'Flexible', with an initial capital letter - when reporting household (HH) or commonly ends up in public bins (PB) packaging types. |
+| ST    | Steel            |                                                                                               |
+| WD    | Wood             |                                                                                               |
+| OT    | Other            | Any other material that is not listed here. You must also give the material subtype.          |
+
+###'Plastic' and 'Other material' subtypes 
+
+{:#packaging-subtypes}
+
+If you report the packaging material as PL (plastic), you must enter 'Rigid' or 'Flexible' in the packaging material subtype field. This only applies to household (HH) or commonly ends up in public bins (PB) packaging types.
+
+^ Enter 'Rigid' or 'Flexible' with an initial capital letter - if the 'r' or the 'f' is lower case it will cause an error.
+
+If you report the packaging material as OT (other), enter the name of the material you used in the packaging material subtype field. 
+
+For example, other materials could include:  
+
+- bamboo 
+- ceramic 
+- copper 
+- cork 
+- hemp 
+- rubber 
+- silicone
+
+###UK country codes 
+
+The packaging EPR reporting codes for each UK country.  
+
+{:#country-codes}
+
+**Table 6: UK country codes**
+
+| Code  | Name              |   |
+|-------|-------------------|---|
+| EN    | England           |   |
+| NI    | Northern Ireland  |   |
+| SC    | Scotland          |   |
+| WS    | Wales             |   |
+
+### Recyclability assessment methodology codes
+
+The environmental regulators have issued a regulatory position statement on collecting and reporting data under the  Recyclability Assessment Methodology (RAM).
+
+This only applies to data collection and reporting under the RAM. It does not apply to any other data you must collect and report for EPR for packaging.
+
+Read [PackUK's statement on recyclability assessment](https://www.gov.uk/government/publications/packuk-common-2025-recyclability-assessment-requirements/packuk-2025-recyclability-assessment-requirements). This links to regulatory position statements from each of the four regulators. Check the statement from your regulator to understand how this affects your data submission.
+
+^Leave the cell blank if you are not submitting RAM data. Report flexible and rigid subtypes of plastics even if you are not submitting RAM data.
+
+{:#ram-codes}
+
+**Table 7: Recyclability assessment methodology codes**
+
+| Code | Name                 |
+|------|----------------------|
+| R    | Red                  |
+| A    | Amber                |
+| G    | Green                |
+| R-M  | Red - medical        |
+| A-M    | Amber - medical  |
+| G-M    | Green  - medical  |
+
+
+[Find out more about the recyclability assessment methodology](https://www.gov.uk/guidance/recycling-assessment-methodology-how-to-assess-your-packaging-waste)
+
+##Allowed packaging classes 
+
+This table shows which packaging classes can be reported under each packaging type. 
+
+**Table 8: Allowed packaging classes**
+
+| Packaging type                           | Allowed packaging classes                                                                                                                       |   |
+|------------------------------------------|-------------------------------------------------------------------------------------|---|
+| Household packaging (HH)                 | Primary packaging (P1) <br>Shipment packaging (P3) <br>Online marketplace total (P6)*                                                           |   |
+| Non-household packaging (NH)             | Primary packaging (P1) <br>Secondary packaging (P2) <br>Shipment packaging (P3) <br>Tertiary packaging (P4) <br>Online marketplace total (P6)*  |   |
+| Self-managed consumer waste (CW)         | Self-managed consumer waste - all (O1)                                                                                                          |   |
+| Self-managed organisation waste (OW)     | Organisation waste - origin (O2)                                                                   |   |
+| Commonly ends up in public bins (PB)     | Public bin (B1)                                                                                                                                 |   |
+| Reusable packaging (RU)                  | Primary packaging (P1) <br>Non-primary reusable packaging (P5)                                                                                  |   |
+| Household drinks containers (HDC)        | None                                                                                                                                            |   |
+| Non-household drinks containers (NDC)    | None                                                                                                                                            |   |
+| Small organisation packaging – all (SP)  | Primary packaging (P1) <br>Secondary packaging (P2) <br>Shipment packaging (P3) <br>Tertiary packaging (P4) <br>Online marketplace total (P6)*  |   |
+
+\* Online marketplace total (P6) should only be used when the packaging activity is ‘supplied through an online marketplace’ (OM). 
+
+More detailed reporting requirements for each of the packaging types are given in the tables in the next section, ‘Packaging type reporting rules’.
+
+##Packaging type reporting rules 
+
+Data requirements vary depending on which packaging type you are reporting on. The following tables provide specific instructions on how to populate the required fields for each packaging type.  
+
+These tables follow the same structure as Table 1: Packaging data file structure.  
+
+Large organisations can use all applicable packaging types, except SP (small organisation packaging - all). 
+
+Small organisations should only use the following packaging types:
+
+- SP (small organisation packaging - all) 
+- HDC (household drinks containers) 
+
+###Household packaging rules 
+
+For large organisations only.  
+
+Provide this data for each packaging activity you report on. Report the total weight of each packaging material. 
+
+**Table 9a: Household packaging rules**
+
+| Order <br>(CSV column letter)  | Name <br>(CSV column header)                                | Rule                                                                                                                                    |
+|---------|--------------------------------------|-------------------------------------------------------------------------------------|
+| 1 (A)       | Organisation ID <br>(organisation_id)                     | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)       | Subsidiary ID <br>(subsidiary_id)                      | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)                 | Default to L for large organisation.                                                                                                    |
+| 4 (D)      | Time period for submission <br>(submission_period)      |  Use the relevant [time period code](#time-period-codes).             |
+| 5 (E)     | Packaging activity <br>(packaging_activity)            | Use the relevant [packaging activity code](#packaging-activity-codes).|
+|  6 (F)      | Packaging type <br>(packaging_type)              | Default to HH (household packaging).                                                                                                    |
+| 7 (G)       | Packaging class <br>(packaging_class)                | Use the relevant [packaging class code](#packaging-class-codes).  <br><br>[Table 7](#allowed-packaging-classes) gives a list of the packaging classes that can be used for this packaging type.   |
+| 8 (H)     | Packaging material <br>(packaging_material)               | Use the relevant [packaging material code](#packaging-material-codes).                                                                                               |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)       | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other) or PL (plastic).             |
+| 10 (J)      | From (country in UK) <br>(from_country)                   | Leave blank.                                                                                                                            |
+| 11 (K)      | To (country in UK) <br>(to_country)                | Leave blank.                                                                                                                            |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)        | Enter the total weight of each packaging material in kilograms.                                                                         |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Leave blank. |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating) | Use the relevant [recyclability assessment methodology code](#ram-codes) |
+
+###Non-household packaging rules 
+
+For large organisations only.  
+
+Provide this data for each packaging activity you report on. Report the total weight of each packaging material. 
+
+**Table 9b: Non-household packaging rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                   |
+|---------|--------------------------------------|----------------------------------------------------------------------------------------|
+| 1 (A)     | Organisation ID <br>(organisation_id)                    | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                     | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)            | Default to L for large organisation.                                                                                                    |
+| 4 (D)      | Time period for submission <br>(submission_period)         |  Use the relevant [time period code](#time-period-codes).     |                          
+| 5 (E)     | Packaging activity <br>(packaging_activity)             | Use the relevant [packaging activity code](#packaging-activity-codes).      |
+|  6 (F)      | Packaging type <br>(packaging_type)               | Default to NH (non-household).  |
+| 7 (G)       | Packaging class <br>(packaging_class)            | Use the relevant [packaging class code](#packaging-class-codes).  <br><br>[Table 7](#allowed-packaging-classes) gives a list of the packaging classes that can be used for this packaging type.  |
+| 8 (H)     | Packaging material <br>(packaging_material)           | Use the relevant [packaging material code](#packaging-material-codes).                                                                                              |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)       | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other).            |
+| 10 (J)      | From (country in UK) <br>(from_country)            | Leave blank.                                                                                                                           |
+| 11 (K)      | To (country in UK) <br>(to_country)                 | Leave blank.                                                                                                                           |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)         | Enter the total weight of each packaging material in kilograms.                                                                        |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Leave blank. |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero.  |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+
+
+###Self-managed consumer waste rules 
+
+For large organisations only. 
+
+This packaging type does not need to be broken down by packaging activity.  
+
+Report the total weight of each packaging material on one line, and any transfers on separate lines. 
+
+To report self-managed consumer waste collection, place the value indicating nation of collection in column 10 (J) and leave column 11 (K) empty.
+
+To report self-managed consumer waste transfer, place the value indicating nation of collection in column 10 (J) and the value indicating nation where the waste is being transferred to in column 11 (K).
+
+^ Transfers are part of the total weight, not additions to it - if you produced 5000 tonnes in total and transferred 1000 tonnes of this to another country, you would not enter 4000 tonnes on one line and 1000 on another. You would enter 5000 and 1000 on the two lines.
+
+The system will work out the difference between what was collected and what was transferred (to identify waste collected and not transferred).
+
+$E
+**Examples**
+
+If you want to indicate collection of waste without any transfer, then column 10 (J) must have a nation value and column 11 (K) must be empty. Column 8 (H) will tell you what material it is and column 12 (L) will indicate how much was it. All these must be on one row.
+
+If you want to indicate collection of waste and some (or all) of it is transferred, then column 10 (J) must have a nation value and column 11 (K) must have a different nation to column 10 (J). Column 8 (H) will tell you what material it is, and column 12 (L) will indicate how much was it. All these must be on one row.
+$E
+
+**Table 9c: Self-managed consumer waste rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                    |
+|---------|--------------------------------------|-------------------------------------------------------------------------------------|
+| 1 (A)       | Organisation ID <br>(organisation_id)                  | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                 | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)                | Default to L for large organisation.                                                                                                    |
+| 4 (D)      | Time period for submission <br>(submission_period)        |  Use the relevant [time period code](#time-period-codes).    |                              
+| 5 (E)     | Packaging activity <br>(packaging_activity)      | Leave blank.                                                                                                                                            |
+|  6 (F)      | Packaging type <br>(packaging_type)           | Default to CW (self-managed consumer waste).                                                                                                            |
+| 7 (G)       | Packaging class <br>(packaging_class)             | O1 (self-managed consumer waste - all) is the only entry allowed.                                                                                       |
+| 8 (H)     | Packaging material <br>(packaging_material)           | Use the relevant [packaging material code](#packaging-material-codes).                                                                                                               |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)    | If applicable, give the name of the [packaging material subtype](#packaging-subtypes).  <br><br>Only for use when the packaging material is OT (other).                            |
+| 10 (J)      | From (country in UK) <br>(from_country)              | Use the relevant [UK country code](#country-codes).                                                                                                                       |
+| 11 (K)      | To (country in UK) <br>(to_country)               | If the waste is transferred to another country, use the relevant [UK country code](#country-codes). <br><br>If the waste is not transferred to another country, leave blank.  |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)         | Enter the total weight of each packaging material in kilograms.                                                                                         |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Leave blank.     |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+
+###Self-managed organisation waste rules 
+
+For large organisations only. 
+
+This packaging type does not need to be broken down by packaging activity.  
+
+Report the total weight of each packaging material on one row, and any transfers on separate rows. 
+
+To report self-managed consumer waste collection, place the value indicating nation of collection in column 10 (J) and leave column 11 (K) empty.
+
+To report self-managed consumer waste transfer, place the value indicating nation of collection in column 10 (J) and the value indicating nation where the waste is being transferred to in column 11 (K).
+
+^ Transfers are part of the total weight, not additions to it - if you produced 5000 tonnes in total and transferred 1000 tonnes of this to another country, you would not enter 4000 tonnes on one row and 1000 on another. You would enter 5000 and 1000 on the two rows.
+
+The system will work out the difference between what was collected and what was transferred (to identify waste collected and not transferred).
+
+$E
+**Examples**
+
+If you want to indicate collection of waste without any transfer, then column 10 (J) must have a nation value and column 11 (K) must be empty. Column 8 (H) will tell you what material it is and column 12 (L) will indicate how much was it. All these must be on one row.
+
+If you want to indicate collection of waste and some (or all) of it is transferred, then column 10 (J) must have a nation value and column 11 (K) must have a different nation to column 10 (J). Column 8 (H) will tell you what material it is, and column 12 (L) will indicate how much was it. All these must be on one row.
+$E
+
+
+**Table 9d: Self-managed organisation waste rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                            |
+|---------|--------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1 (A)      | Organisation ID <br>(organisation_id)                   | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                   | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)               | Default to L for large organisation.                                                                                                    |
+| 4 (D)      | Time period for submission <br>(submission_period)        |  Use the relevant [time period code](#time-period-codes).     |
+| 5 (E)     | Packaging activity <br>(packaging_activity)           | Leave blank.                                                                                                                                                    |
+|  6 (F)      | Packaging type <br>(packaging_type)          | Default to OW (self-managed organisation waste).                                                                                                                |
+| 7 (G)       | Packaging class <br>(packaging_class)            | O2 (organisation waste - origin) is the only entry allowed.  |
+| 8 (H)     | Packaging material <br>(packaging_material)         | Use the relevant [packaging material code](#packaging-material-codes).                                                                                                                       |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)     | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other).                                     |
+| 10 (J)      | From (country in UK) <br>(from_country)          | Use the relevant [UK country code](#country-codes).                                        |
+| 11 (K)      | To (country in UK) <br>(to_country)                 | If the waste is transferred to another country, use the relevant [UK country code](#country-codes). <br><br>If the waste is not transferred to another country, leave blank.                                   |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)         | Enter the total weight of each packaging material in kilograms.                                                                                                 |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Leave blank. |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+
+###‘Commonly ends up in public bins’ rules 
+
+For large organisations only.  
+
+Provide this data for each packaging activity you report on. 
+
+**Table 9e: ‘Commonly ends up in public bins’ rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                |
+|---------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (A)      | Organisation ID <br>(organisation_id)                 | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                   | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)                  | Default to L for large organisation.                                                                                                    |
+| 4 (D)      | Time period for submission <br>(submission_period)            | Use the relevant [time period code](#time-period-codes).    |
+| 5 (E)     | Packaging activity <br>(packaging_activity)      | Use the relevant [packaging activity code](#packaging-activity-codes). <br><br>OM (supplied through an online marketplace that you own) should not be used for this packaging type.  |
+|  6 (F)      | Packaging type <br>(packaging_type)            | Default to PB (commonly ends up in public bins).                                                                                                    |
+| 7 (G)       | Packaging class <br>(packaging_class)              | B1 (public bin) is the only entry allowed.                                                                                                          |
+| 8 (H)     | Packaging material <br>(packaging_material)           | Use the relevant [packaging material code](#packaging-material-codes).                                                                                                       |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)      | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other) or PL (plastic).                         |
+| 10 (J)      | From (country in UK) <br>(from_country)              | Leave blank.                                                                                                                                        |
+| 11 (K)      | To (country in UK) <br>(to_country)                  | Leave blank.                                                                                                                                        |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)        | Enter the total weight of each packaging material in kilograms.                                                                                     |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units) | Leave blank.     |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  |  Use the relevant [recyclability assessment methodology code](#ram-codes) |
+
+
+###Reusable packaging rules 
+
+For large organisations only.  
+
+You only need to report reusable packaging the first time it’s supplied. 
+
+As well as reporting it in this separate category, you should also make sure any reusable packaging is included in the household and non-household packaging that you report.
+
+**Table 9f: Reusable packaging rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                                                                |
+|---------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (A)      | Organisation ID <br>(organisation_id)                    | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                  | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)            | Default to L for large organisation.                                                                                                    |
+| 4 (D)        | Time period for submission <br>(submission_period)            | Use the relevant [time period code](#time-period-codes).     |                  
+| 5 (E)     | Packaging activity <br>(packaging_activity)       | Use the relevant [packaging activity code](#packaging-activity-codes). <br><br>The packaging type RU (reusable packaging) should not be used if the packaging activity is OM (supplied through an online marketplace that you own).  |
+|  6 (F)      | Packaging type <br>(packaging_type)        | Default to RU (reusable packaging).                                                                                                                                                                 |
+| 7 (G)       | Packaging class <br>(packaging_class)                | This packaging type must be broken down into the following packaging classes:  <br><br>P1 (primary packaging)  <br>P5 (non-primary reusable packaging).                                                 |
+| 8 (H)     | Packaging material <br>(packaging_material)        | Use the relevant [packaging material code](#packaging-material-codes).                                                                                                                                                           |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)     | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other).                                                                         |
+| 10 (J)      | From (country in UK) <br>(from_country)           | Leave blank.                                                                                                                                                                                        |
+| 11 (K)      | To (country in UK) <br>(to_country)                 | Leave blank.                                                                                                                                                                                        |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)      | Enter the total weight of each packaging material in kilograms.                                                                                                                                     |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Leave blank. |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+
+###Household drinks containers rules 
+
+For large and small organisations. 
+
+This packaging type does not need to be broken down by packaging class. 
+
+Drinks containers should hold 150ml to 3l of liquid. This includes containers that are 150ml to 3l and supplied in multipacks.
+
+####For large organisations 
+
+If you supply or import single-use drinks containers, report it under this packaging type if it also meets the definition of household packaging.   
+
+All drinks containers should be reported as HDC (household drinks containers) unless you have the necessary evidence that it is non-household packaging.  
+
+
+####For small organisations  
+
+Report all drinks containers as HDC (household drinks containers).  
+
+**Table 9g: Household drinks containers rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                                                                                                                                                                                                                  |
+|---------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (A)    | Organisation ID <br>(organisation_id)                   | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)                | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)         | Default to L for large organisation.                                                                                                    |
+| 4 (D)        | Time period for submission <br>(submission_period)            | Use the relevant [time period code](#time-period-codes).     |      
+| 5 (E)     | Packaging activity <br>(packaging_activity)     | Use the relevant [packaging activity code](#packaging-activity-codes). <br><br>If the packaging activity is OM (supplied through an online marketplace that you own), you should not use the packaging type HDC (household drinks containers).  <br><br>If you supply drinks containers through an online marketplace that you own, report these as HH (household) or NH (non-household).  |
+|  6 (F)      | Packaging type <br>(packaging_type)               | Default to HDC (household drinks containers).                                                                                                                                                                                                                                                                                                         |
+| 7 (G)       | Packaging class <br>(packaging_class)                  | Leave blank.                                                                                                                                                                                                                                                                                                                                          |
+| 8 (H)     | Packaging material <br>(packaging_material)         | Use the relevant [packaging material code](#packaging-material-codes).  <br><br>Only certain material types can be reported for drinks containers. There is a list of the allowed packaging materials for drinks containers below table 8h.                                                                                                                                                                            |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)      | Leave blank.                                                                                                                                                                                                                                                                                                                                          |
+| 10 (J)      | From (country in UK) <br>(from_country)            | Leave blank.                                                                                                                                                                                                                                                                                                                                          |
+| 11 (K)      | To (country in UK) <br>(to_country)                   | Leave blank.                                                                                                                                                                                                                                                                                                                                          |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)       | Enter the total weight of each packaging material in kilograms.                                                                                                                                                                                                                                                                                       |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Enter the number of packaging units.                                                                                                                                                                                                                                                                                                                  |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Use the relevant [recyclability assessment methodology code](https://www.gov.uk/government/publications/packaging-data-how-to-create-your-file-for-extended-producer-responsibility/packaging-data-file-specification-for-extended-producer-responsibility#ram-codes) if you are a large producer and the containers are glass |
+
+
+
+###Non-household drinks containers rules 
+
+For large organisations only.  
+
+This packaging type does not need to be broken down by packaging class. 
+
+If you supply or import single-use drinks containers, report it under this packaging type if it also meets the definition of non-household packaging.   
+
+All drinks containers should be reported as HDC (household drinks containers) unless you have the necessary evidence that it is non-household packaging.   
+
+Drinks containers should hold 150ml to 3l of liquid. This includes containers that are 150ml to 3l and supplied in multipacks.
+
+**Table 9h: Non-household drinks containers rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                | Rule                                                                                                                                                                                                                                                                                                                                                     |
+|---------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (A)      | Organisation ID <br>(organisation_id)             | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)           | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)            | Default to L for large organisation.                                                                                                    |
+| 4 (D)        | Time period for submission <br>(submission_period)            | Use the relevant [time period code](#time-period-codes).     |      
+| 5 (E)     | Packaging activity <br>(packaging_activity)      | Use the relevant [packaging activity code](#packaging-activity-codes). <br><br>If the packaging activity is OM (supplied through an online marketplace that you own), you should not use the packaging type NDC (non-household drinks containers). <br><br>If you supply drinks containers through an online marketplace that you own, report these as HH (household) or NH (non-household).  |
+|  6 (F)      | Packaging type <br>(packaging_type)                  | Default to NDC (non-household drinks containers).                                                                                                                                                                                                                                                                                                        |
+| 7 (G)       | Packaging class <br>(packaging_class)             | Leave blank.                                                                                                                                                                                                                                                                                                                                             |
+| 8 (H)     | Packaging material <br>(packaging_material)           | Use the relevant [packaging material code](#packaging-material-codes).  <br><br>Only certain material types can be reported for drinks containers. There is a list of allowed packaging materials  for drinks containers below this table.                                                                                                                                                                          |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)      | Leave blank.                                                                                                                                                                                                                                                                                                                                             |
+| 10 (J)      | From (country in UK) <br>(from_country)              | Leave blank.                                                                                                                                                                                                                                                                                                                                             |
+| 11 (K)      | To (country in UK) <br>(to_country)                  | Leave blank.                                                                                                                                                                                                                                                                                                                                             |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)       | Enter the total weight of each packaging material in kilograms.                                                                                                                                                                                                                                                                                          |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  | Enter the number of packaging units.                                                                                                                                                                                                                                                                                                                     |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+###Drinks containers: allowed packaging materials 
+
+The packaging materials that can be reported for drinks containers are:  
+
+- aluminium 
+- glass 
+- plastic - only for use when the material used is polyethylene terephthalate (PET) 
+- steel
+
+###‘Small organisation packaging - all’ rules 
+
+For small organisations only.  
+
+Provide this data for each packaging activity you report on.  
+
+**Table 9i: ‘Small organisation packaging - all’ rules**
+
+| Order <br>(CSV column letter) | Name <br>(CSV column header)                                 | Rule                                                                                                                                                                                                                                                                                                                 |
+|---------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (A)      | Organisation ID <br>(organisation_id)             | The identification number assigned to an organisation when they create an account.                                                      |
+| 2 (B)      | Subsidiary ID <br>(subsidiary_id)        | An identification number assigned to a subsidiary by its parent company. <br><br>This field must be used by parent companies if there's a group registration and they're reporting data from subsidiaries. Otherwise, leave blank.     
+| 3 (C)      | Organisation size <br>(organisation_size)             |  Use S for small organisation.                                                                                                    |
+| 4 (D)        | Time period for submission <br>(submission_period)            | Use the relevant [time period code](#time-period-codes).     |      
+| 5 (E)     | Packaging activity <br>(packaging_activity)           | Use the relevant [packaging activity code](#packaging-activity-codes).                                                                                                                                                                                                                                                                            |
+|  6 (F)      | Packaging type <br>(packaging_type)                | Default to SP (small organisation packaging - all).                                                                                                                                                                                                                                                                  |
+| 7 (G)       | Packaging class <br>(packaging_class)             | Use the relevant [packaging class code](#packaging-class-codes).  <br><br>[Table 7](#allowed-packaging-classes) gives a list of the packaging classes that can be used for this packaging type.  <br><br>If the packaging activity is OM (supplied through an online marketplace that you own), the only packaging class that should be reported is P6 (online marketplace total)  |
+| 8 (H)     | Packaging material <br>(packaging_material)            | Use the relevant [packaging material code](#packaging-material-codes).                                                                                                                                                                                                                                                                            |
+| 9 (I)      | Packaging material subtype <br>(packaging_material_subtype)     | If applicable, give the name of the [packaging material subtype](#packaging-subtypes). <br><br>Only for use when the packaging material is OT (other).                                                                                                                                                                                          |
+| 10 (J)      | From (country in UK) <br>(from_country)               | Leave blank.                                                                                                                                                                                                                                                                                                         |
+| 11 (K)      | To (country in UK) <br>(to_country)                  | Leave blank.                                                                                                                                                                                                                                                                                                         |
+| 12 (L)      | Packaging material weight <br>(packaging_material_weight)        | Enter the total weight of each packaging material in kilograms.                                                                                                                                                                                                                                                      |
+| 13 (M)     | Packaging material quantity (units) <br>(packaging_material_units)  |  Leave blank.                                           |
+| 14 (N) | Weight of transitional packaging  (transitional_packaging_units) | Leave completely blank. Do not enter a zero. |
+| 15 (O)      | Recyclability assessment rating (ram_rag_rating)  | Leave completely blank |
+
+
+##Get help 
+
+If you have any questions, email the packaging team at <packaging@defra.gov.uk>.
+
+
+*[EPR]: extended producer responsibility
+*[CSV]: comma-separated values
+*[RAM]: recyclability assessment methodology

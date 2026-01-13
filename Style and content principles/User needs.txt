@@ -1,0 +1,133 @@
+
+# User needs
+
+How to write and record a user need for GOV.UK.
+
+‘User needs’ are the needs that members of the public, businesses or customers have of government. These are the users of GOV.UK.
+
+Every part of the GOV.UK website design and architecture, and every piece of published content, should meet a valid user need.
+
+People visit GOV.UK to help them fulfil a certain task, like apply for a driving licence, or find out how to vote.
+
+Writing good user needs means we can create content to help them do the things they need to.
+
+You should be able to prove that a user need exists. Find out how to gather the evidence you need.
+
+To create content or services for GOV.UK, you must start with the user need. It’s a simple concept, but is sometimes a bit harder to put into practice.
+
+All GOV.UK user needs follow the same template.
+
+As a… [who is the user?]
+
+I need to… [what does the user want to do?]
+
+So that… [why does the user want to do this?]
+
+They’re written from the user’s perspective and in language that a user would recognise and use themselves.
+Good example
+
+As a carer
+
+I need to get financial help
+
+So that I can carry on looking after the person I care for
+
+This is a valid user need because it does not suggest a specific solution. You might need to produce a combination of features and content to make sure the user need is met.
+Bad example
+
+As a carer
+
+I need to use a benefits calculator
+
+So that I can find out if I can get Carer’s Allowance
+
+This is not a valid user need because it creates a ‘need’ to justify existing content, and suggests a specific solution that may or may not be right.
+
+Assumptions we make when designing a piece of content or service can often be wrong. We need to find the best solution to meet each user need.
+Acceptance criteria
+
+Acceptance criteria can help define a user need. Write a list of what must be done for the need to be met.
+
+For the above example this could be when the user:
+
+    understands what carer’s allowance is
+    understands if they are eligible
+    can apply for carer’s allowance
+    understands how much they are entitled to
+
+Define the user
+
+Do not begin the user need with ‘as a user.’ Most government policies and legislation are aimed at a clearly defined group. You should know who the user is, and define them in relationship to what they’re trying to do.
+
+A user does not have to be just one person. It can mean a broad group of people, if their relationship to the need is the same.
+
+For example, someone applying for a child’s passport could be a parent, or ‘someone with parental responsibility.’ This could be a grandparent, foster carer or legal guardian. You would not need to write a separate need for each one.
+
+Other user groups can be more vague, but are still defined as more than just a ‘user’:
+
+    a business
+    a person who has reached state pension age
+    an exporter
+    a company
+    a teacher
+    someone who wants to work in the UK
+    someone who wants to settle in the UK
+    a vehicle owner
+
+What the user wants to do
+
+User needs and GOV.UK content must be based on actions or tasks.
+
+Active user needs are things like:
+
+    applying
+    appealing
+    paying for
+    submitting
+    sending a tax return
+    changing an address
+    claiming
+    requesting
+    challenging
+
+Avoid using:
+
+    understand
+    know
+    be aware of
+    using (as in a tool or service)
+
+You should only use ‘understand,’ or ‘be aware of’ if the user needs to know it to fulfil a certain task, like comply with the law.
+
+Why would a user need to ‘understand’ something? If they do not need it to take action, it’s not a valid user need. Complying with the law is still an action because it’s something users need to do to achieve something, like remain in business or avoid penalties.
+Good example
+
+As a teacher
+
+I want to understand Amazing Policy affecting my students
+
+So that I fulfil my statutory obligations
+Bad example
+
+As a teacher
+
+I need to understand Amazing Policy affecting my students
+
+So that I am informed.
+
+You should record and store any user needs for content you create. You may find it helpful to keep information about:
+
+    when the user need is met (acceptance criteria)
+    any supporting evidence for the need
+    why the need is in proposition for GOV.UK
+
+The primary publishing organisation (the organisation responsible for owning, publishing and maintaining the content) should maintain a record of user needs and content meeting that need.
+
+You can maintain a list of user needs by using:
+
+    a spreadsheet
+    an online database tool (following your organisation’s policy on online tools)
+
+Maslow: the user needs tool
+
+All user needs from the original transition of agencies and arm’s-length bodies to GOV.UK in 2013 and 2014 were recorded in Maslow. The application has now been retired. Publicly viewable /info pages have also been retired.

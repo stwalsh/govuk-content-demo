@@ -273,6 +273,49 @@ Running separate sessions with different role instructions lets each focus on it
 
 ---
 
+## Adapting for your own domain
+
+To use this setup with different legislation or guidance:
+
+### 1. Swap the legislation
+
+Delete `Legislation/2024-1332/` and fetch your own:
+
+```bash
+node fetch-legislation.js uksi/2023/123    # Your SI number
+node fetch-legislation.js ukpga/2020/1     # Or an Act
+```
+
+This pulls from legislation.gov.uk and converts to markdown. Find identifiers at legislation.gov.uk — they're in the URL (e.g. `/uksi/2024/1332`).
+
+### 2. Replace the existing guidance
+
+Delete the contents of `Existing guidance/` and add your own GOV.UK pages. Save as markdown — just copy the main content, not the navigation chrome.
+
+### 3. Update sync config (optional)
+
+If you want to track when live GOV.UK pages change, edit `sync-config.json` to map your local files to GOV.UK URLs:
+
+```json
+{
+  "mappings": [
+    {
+      "local": "Existing guidance/your-page.md",
+      "govuk": "/guidance/your-page-url",
+      "description": "What this page covers"
+    }
+  ]
+}
+```
+
+Then run `node sync-check.js` to check for drift.
+
+### 4. Keep or adapt the role files
+
+The role instructions (`drafting.md`, `style-review.md`, `legal-review.md`) are generic GOV.UK guidance — they should work for any topic. Tweak if your domain has specific conventions.
+
+---
+
 ## Why this exists
 
 We're using these regs as a sandbox because they're real, complex, and public. All source material is on GOV.UK or legislation.gov.uk.

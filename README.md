@@ -42,31 +42,27 @@ The analytical tasks — cross-referencing, consistency checking, gap-finding �
 
 ## Setup
 
-### 1. Get Claude Pro
+You need a Claude Pro or Max account. Two ways to run this:
 
-Sign up at [claude.ai](https://claude.ai) for a Pro account.
+### Option A: Browser (easiest)
 
-### 2. Install Claude Code
+Use [Claude Code on the web](https://claude.ai/code) — no install needed.
 
-Claude Code is Anthropic's CLI for using Claude with local files.
+1. Go to claude.ai/code
+2. Connect this GitHub repo
+3. Start running exercises
+
+Claude works in a cloud environment and can push changes to branches.
+
+### Option B: Local CLI
+
+Install Claude Code locally for offline work or if you prefer the terminal.
 
 ```bash
 npm install -g @anthropic-ai/claude-code
-```
-
-Or see the [Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code) for other install methods.
-
-### 3. Clone and install
-
-```bash
-git clone [this-repo-url]
+git clone https://github.com/stwalsh/govuk-content-demo
 cd govuk-content-demo
 npm install
-```
-
-### 4. Run Claude Code
-
-```bash
 claude
 ```
 

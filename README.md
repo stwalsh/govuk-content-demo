@@ -69,7 +69,7 @@ This is designed for guidance. I can see how it would work for service content -
 
 You need a Claude Pro or Max account. Two ways to run this:
 
-### Option A: Browser (easiest)
+### Option A: Browser (easiest to start)
 
 Use [Claude Code on the web](https://claude.ai/code) — no install needed.
 
@@ -78,6 +78,8 @@ Use [Claude Code on the web](https://claude.ai/code) — no install needed.
 3. Start running exercises
 
 Claude works in a cloud environment and can push changes to branches.
+
+Note: The web version is slower and flakier than local CLI. Easier setup but harder to use well. Fine for trying it out; switch to local if you get frustrated.
 
 ### Option B: Local CLI
 

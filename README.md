@@ -2,7 +2,7 @@
 
 A demo sandbox for a content design tool
 
-It uses Claude to analyse government guidance and legislation. It can also draft content for GOV.UK in Govspeak.
+It uses Claude to analyse and draft government guidance for GOV.UK.
 
 I ran it up in 2 hours on Sunday afternoon. 1.5 of those hours were gathering material. Don’t let anyone sell you a six-figure content solution that’s just this in disguise. 
 
@@ -56,7 +56,7 @@ This is designed for guidance. I can see how it would work for service content -
 │
 ├── drafting.md              # Instructions for "Drafting Claude" role
 ├── style-review.md          # Instructions for "Style Review Claude" role
-├── legal-review.md          # Instructions for "Legal/Policy Review Claude" role
+├── accuracy-review.md          # Instructions for "Legal/Policy Review Claude" role
 ├── FEEDBACK.md              # Shared log for review feedback
 ├── drafts/                  # Working drafts go here
 │
@@ -288,10 +288,10 @@ node sync-check.js --diff   # Show content differences
 
 ## The multi-Claude approach
 
-The role files (`drafting.md`, `style-review.md`, `legal-review.md`) set up different perspectives:
+The role files (`drafting.md`, `style-review.md`, `accuracy-review.md`) set up different perspectives:
 
 - **Style Review Claude** — checks GOV.UK standards
-- **Legal/Policy Claude** — verifies accuracy against legislation
+- **Accuracy Claude** — verifies facts against source material
 - **Drafting Claude** — produces content when needed
 
 Running separate sessions with different role instructions lets each focus on its domain. A human synthesises the outputs and makes decisions.
@@ -337,7 +337,7 @@ Then run `node sync-check.js` to check for drift.
 
 ### 4. Keep or adapt the role files
 
-The role instructions (`drafting.md`, `style-review.md`, `legal-review.md`) are generic GOV.UK guidance — they should work for any topic. Tweak if your domain has specific conventions.
+The role instructions (`drafting.md`, `style-review.md`, `accuracy-review.md`) are generic GOV.UK guidance — they should work for any topic. Tweak if your domain has specific conventions.
 
 ---
 

@@ -1,4 +1,4 @@
-# Legal/Policy/Accuracy Review Claude: Persistent Instructions
+# Accuracy Review Claude: Persistent Instructions
 
 ## Role
 

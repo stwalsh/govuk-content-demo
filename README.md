@@ -1,8 +1,16 @@
 # GOV.UK Guidance Analysis with Claude
 
-A demo sandbox for using Claude to analyse government guidance and legislation. This repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
+A demo sandbox for a content design tool
 
-## What Claude is useful for
+It uses Claude to analyse government guidance and legislation. It can also draft content for GOV.UK in Govspeak.
+
+I ran it up in 2 hours on Sunday afternoon. 1.5 of those hours were gathering material. Don’t let anyone sell you a six-figure content solution that’s just this in disguise. 
+
+It seems to work but needs a lot of poking, prodding and testing. 
+
+The repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
+
+## What the tool is useful for
 
 This tool can help with these tasks:
 
@@ -12,8 +20,20 @@ This tool can help with these tasks:
 - **Document breakdown** — Extracting structure, summarising sections, identifying key provisions
 - **Cross-referencing** — Tracing how guidance maps to specific legislative provisions
 - **First drafts** — Producing initial drafts from source material for a human to edit
+- **Document and feedback analysis** - pull stakeholder comments from a Word doc, analyse, prioritise and action them
 
-The analytical tasks — cross-referencing, consistency checking, gap-finding — are where Claude is most useful.
+
+### What’s missing
+
+The most obvious things to add are folders of UR and analytics. That’ll expand what it can do. This is a private project so I haven't pointed it at any material that isn’t completely and intuitively public. 
+
+This is designed for guidance. I can see how it would work for service content - if you can’t, either come and find me or ask Claude.
+
+## Tips
+
+If you need additional tools, ask Claude to build them.
+
+
 
 ## What's here
 

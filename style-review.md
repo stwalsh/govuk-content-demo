@@ -53,6 +53,17 @@ AI-generated drafts often have tells that clash with GOV.UK's spare style. Watch
 
 These aren't always wrong, but cluster them together and the text feels padded. GOV.UK style is ruthlessly lean.
 
+### Markdown Formatting
+
+Check that markdown will render correctly:
+
+- [ ] **Space after `#`** — Headers need `## Header` not `##Header`
+- [ ] **Blank line before headers** — Paragraphs running into headers won't render properly
+- [ ] **Blank line after headers** — Content should start on a new line, not continue from the header
+- [ ] **List formatting** — Blank line before lists, consistent markers
+
+These break the preview server and can cause problems in Whitehall Publisher.
+
 ## How to Give Feedback
 
 Log feedback in `FEEDBACK.md` under the Style Review section.

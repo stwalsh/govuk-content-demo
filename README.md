@@ -24,7 +24,6 @@ This tool can help with these tasks:
 - **First drafts** — Producing initial drafts from source material for a human to edit
 - **Document and feedback analysis** - pull stakeholder comments from a Word doc, analyse, prioritise and action them
 
-
 ### What’s missing
 
 The most obvious things to add are folders of UR and analytics. That’ll expand what it can do. This is a private project so I haven't pointed it at any material that isn’t completely and intuitively public. 
@@ -38,6 +37,11 @@ This is designed for guidance. I can see how it would work for service content -
 - Point Claude at specific files before asking questions — "read X then tell me Y"
 - If you need additional tools, ask Claude to build them
 
+## CAREFUL!!
+
+This is processing data on Anthropic's servers. Do not I repeat do not give it _anything_ sensitive. In fact I advise you to play it safe and stick to published materials. 
+
+Keep the human in the loop. Verify everything. 
 
 
 ## What's here

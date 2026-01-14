@@ -6,7 +6,9 @@ It uses Claude to analyse government guidance and legislation. It can also draft
 
 I ran it up in 2 hours on Sunday afternoon. 1.5 of those hours were gathering material. Don’t let anyone sell you a six-figure content solution that’s just this in disguise. 
 
-It seems to work but needs a lot of poking, prodding and testing. 
+I've no commercial plans for this. I'm just sharing it so the community can see what's possible. If you want me to talk to you about it, let me know. 
+
+It really looks like it works but I want people to try it out and see where it breaks. 
 
 The repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
 

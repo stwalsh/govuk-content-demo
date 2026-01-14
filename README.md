@@ -33,7 +33,10 @@ This is designed for guidance. I can see how it would work for service content -
 
 ## Tips
 
-If you need additional tools, ask Claude to build them.
+- It likes markdown as a source format — plain text, easy to diff, works well with version control
+- Be directive about structure and length: "keep it under 500 words" or "I want this as 3 separate pages" saves iteration
+- Point Claude at specific files before asking questions — "read X then tell me Y"
+- If you need additional tools, ask Claude to build them
 
 
 

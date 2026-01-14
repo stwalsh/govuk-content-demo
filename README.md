@@ -39,7 +39,9 @@ This is designed for guidance. I can see how it would work for service content -
 
 ## CAREFUL!!
 
-This is processing data on Anthropic's servers. Do not I repeat do not give it _anything_ sensitive. In fact I advise you to play it safe and stick to published materials. 
+This is processing data on Anthropic's servers. Do not I repeat do not give it _anything_ sensitive. In fact I advise you to play it safe and stick to published materials.
+
+The CLI asks permission before running commands or editing files. Read what it's asking before you approve. Be especially careful with anything destructive — deleting files, force-pushing to git, or running unfamiliar scripts.
 
 Keep the human in the loop. Verify everything. 
 

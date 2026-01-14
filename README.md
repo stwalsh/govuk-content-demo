@@ -24,11 +24,13 @@ This tool can help with these tasks:
 - **First drafts** — Producing initial drafts from source material for a human to edit
 - **Document and feedback analysis** - pull stakeholder comments from a Word doc, analyse, prioritise and action them
 
-### What’s missing
+### What's missing
 
-The most obvious things to add are folders of UR and analytics. That’ll expand what it can do. This is a private project so I haven't pointed it at any material that isn’t completely and intuitively public. 
+The most obvious things to add are folders of UR and analytics. That'll expand what it can do. This is a private project so I haven't pointed it at any material that isn't completely and intuitively public.
 
-This is designed for guidance. I can see how it would work for service content - if you can’t, either come and find me or ask Claude.
+A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic.
+
+This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude.
 
 ## Tips
 

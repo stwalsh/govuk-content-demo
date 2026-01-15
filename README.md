@@ -43,7 +43,7 @@ This is designed for guidance. I can see how it would work for service content -
 
 There's a cap on how much you can use Claude, per session and per week. It's not based on time but on how much token processing Claude is doing - effectively, how hard it's thinking.
 
-You can check usage in the CLI by typing /status and tabbing to usage. 
+You can check usage in the CLI by typing `/status` and tabbing to `usage`. 
 
 If you're a Pro user you can hit your cap surprisingly easily. Follow the tips for more efficent usage but also:
 

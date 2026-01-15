@@ -3,14 +3,18 @@
 /**
  * Fetch GOV.UK content via the Content API and convert to markdown
  *
+ * Supports both Whitehall (detailed_guide) and Mainstream Publisher (guide) formats.
+ *
  * Usage:
  *   node fetch-govuk.js /guidance/page-slug
  *   node fetch-govuk.js /guidance/page-slug output-folder
  *   node fetch-govuk.js https://www.gov.uk/guidance/page-slug
+ *   node fetch-govuk.js /universal-credit --split    # Multi-part: one file per part
  *
  * Examples:
  *   node fetch-govuk.js /guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility
- *   node fetch-govuk.js /guidance/extended-producer-responsibility-for-packaging-who-is-affected
+ *   node fetch-govuk.js /universal-credit "Benefits guidance"
+ *   node fetch-govuk.js /universal-credit "Benefits guidance" --split
  */
 
 const https = require('https');
@@ -217,31 +221,145 @@ function slugify(text) {
 }
 
 // ============================================================================
+// Output Generators
+// ============================================================================
+
+function buildMetadataBlock(data, extraFields = {}) {
+  const lines = [
+    '---',
+    `source: https://www.gov.uk${data.base_path}`,
+    `updated: ${data.public_updated_at?.split('T')[0] || 'unknown'}`,
+    `document_type: ${data.document_type}`,
+  ];
+  for (const [key, value] of Object.entries(extraFields)) {
+    lines.push(`${key}: ${value}`);
+  }
+  lines.push('---');
+  return lines.join('\n');
+}
+
+// Generate markdown for single-body content (Whitehall detailed_guide)
+function generateSingleBodyMarkdown(data) {
+  const lines = [];
+
+  lines.push(`# ${data.title}`);
+  lines.push('');
+  lines.push(buildMetadataBlock(data));
+  lines.push('');
+
+  if (data.description) {
+    lines.push(data.description);
+    lines.push('');
+  }
+
+  const bodyMarkdown = htmlToMarkdown(data.details.body);
+  lines.push(bodyMarkdown);
+
+  return lines.join('\n');
+}
+
+// Generate markdown for multi-part content (Mainstream Publisher guide)
+function generateMultiPartMarkdown(data, options = {}) {
+  const parts = data.details.parts || [];
+
+  if (options.split) {
+    // Return array of { filename, content } for separate files
+    return parts.map((part, index) => {
+      const lines = [];
+
+      lines.push(`# ${part.title}`);
+      lines.push('');
+      lines.push(buildMetadataBlock(data, {
+        part: `${index + 1} of ${parts.length}`,
+        slug: part.slug,
+        parent: data.title
+      }));
+      lines.push('');
+
+      const bodyMarkdown = htmlToMarkdown(part.body);
+      lines.push(bodyMarkdown);
+
+      return {
+        filename: `${slugify(data.title)}-${String(index + 1).padStart(2, '0')}-${part.slug}.md`,
+        content: lines.join('\n'),
+        title: part.title
+      };
+    });
+  } else {
+    // Combined single file
+    const lines = [];
+
+    lines.push(`# ${data.title}`);
+    lines.push('');
+    lines.push(buildMetadataBlock(data, { parts: parts.length }));
+    lines.push('');
+
+    if (data.description) {
+      lines.push(data.description);
+      lines.push('');
+    }
+
+    // Table of contents
+    lines.push('## Contents');
+    lines.push('');
+    parts.forEach((part, i) => {
+      lines.push(`${i + 1}. [${part.title}](#${part.slug})`);
+    });
+    lines.push('');
+    lines.push('---');
+    lines.push('');
+
+    // Each part as a section
+    parts.forEach((part, i) => {
+      lines.push(`## ${part.title}`);
+      lines.push('');
+      const bodyMarkdown = htmlToMarkdown(part.body);
+      lines.push(bodyMarkdown);
+      lines.push('');
+      if (i < parts.length - 1) {
+        lines.push('---');
+        lines.push('');
+      }
+    });
+
+    return lines.join('\n');
+  }
+}
+
+// ============================================================================
 // Main
 // ============================================================================
 
 async function main() {
   const args = process.argv.slice(2);
+  const flags = args.filter(a => a.startsWith('--'));
+  const positional = args.filter(a => !a.startsWith('--'));
 
-  if (args.length === 0) {
+  const splitMode = flags.includes('--split');
+
+  if (positional.length === 0) {
     console.log(`
-Usage: node fetch-govuk.js <path-or-url> [output-folder]
+Usage: node fetch-govuk.js <path-or-url> [output-folder] [--split]
+
+Options:
+  --split    For multi-part guides: create one file per part (default: combined)
 
 Examples:
   node fetch-govuk.js /guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility
   node fetch-govuk.js https://www.gov.uk/guidance/extended-producer-responsibility-for-packaging-who-is-affected
   node fetch-govuk.js /guidance/some-page "Existing guidance"
+  node fetch-govuk.js /universal-credit "Benefits guidance"          # Combined file
+  node fetch-govuk.js /universal-credit "Benefits guidance" --split  # Separate files
 
-The script will:
-  1. Fetch content from the GOV.UK Content API
-  2. Convert HTML to clean markdown (with govspeak callouts)
-  3. Save to the specified folder (default: current directory)
+Supports:
+  - Whitehall content (detailed_guide) - single body
+  - Mainstream Publisher (guide) - multi-part
 `);
     process.exit(0);
   }
 
-  const inputPath = extractPath(args[0]);
-  const outputFolder = args[1] || '.';
+  const inputPath = extractPath(positional[0]);
+  const outputFolder = positional[1] || '.';
 
   const apiUrl = `https://www.gov.uk/api/content${inputPath}`;
 
@@ -250,55 +368,60 @@ The script will:
   try {
     const data = await fetchJson(apiUrl);
 
-    if (!data.title || !data.details?.body) {
-      console.error('Error: Could not find content in API response');
-      console.error('Document type:', data.document_type);
+    if (!data.title) {
+      console.error('Error: Could not find title in API response');
       process.exit(1);
     }
-
-    // Build markdown content
-    const lines = [];
-
-    // Title
-    lines.push(`# ${data.title}`);
-    lines.push('');
-
-    // Metadata block
-    lines.push('---');
-    lines.push(`source: https://www.gov.uk${data.base_path}`);
-    lines.push(`updated: ${data.public_updated_at?.split('T')[0] || 'unknown'}`);
-    lines.push(`document_type: ${data.document_type}`);
-    lines.push('---');
-    lines.push('');
-
-    // Description/standfirst if present
-    if (data.description) {
-      lines.push(data.description);
-      lines.push('');
-    }
-
-    // Main content
-    const bodyMarkdown = htmlToMarkdown(data.details.body);
-    lines.push(bodyMarkdown);
-
-    const markdown = lines.join('\n');
-
-    // Determine output filename
-    const slug = slugify(data.title);
-    const filename = `${slug}.md`;
-    const outputPath = path.join(outputFolder, filename);
 
     // Ensure output folder exists
     if (!fs.existsSync(outputFolder)) {
       fs.mkdirSync(outputFolder, { recursive: true });
     }
 
-    fs.writeFileSync(outputPath, markdown);
+    const isMultiPart = Array.isArray(data.details?.parts) && data.details.parts.length > 0;
 
-    console.log(`\nSaved: ${outputPath}`);
+    console.log(`Document type: ${data.document_type}${isMultiPart ? ` (${data.details.parts.length} parts)` : ''}`);
+
+    if (isMultiPart) {
+      // Multi-part guide (Mainstream Publisher)
+      const result = generateMultiPartMarkdown(data, { split: splitMode });
+
+      if (splitMode) {
+        // Multiple files
+        result.forEach(file => {
+          const outputPath = path.join(outputFolder, file.filename);
+          fs.writeFileSync(outputPath, file.content);
+          console.log(`  Saved: ${file.filename} - ${file.title}`);
+        });
+        console.log(`\nCreated ${result.length} files in ${outputFolder}`);
+      } else {
+        // Single combined file
+        const slug = slugify(data.title);
+        const filename = `${slug}.md`;
+        const outputPath = path.join(outputFolder, filename);
+        fs.writeFileSync(outputPath, result);
+        console.log(`\nSaved: ${outputPath}`);
+        console.log(`Parts: ${data.details.parts.length}`);
+        console.log(`Words: ~${result.split(/\s+/).length}`);
+      }
+    } else if (data.details?.body) {
+      // Single-body content (Whitehall)
+      const markdown = generateSingleBodyMarkdown(data);
+      const slug = slugify(data.title);
+      const filename = `${slug}.md`;
+      const outputPath = path.join(outputFolder, filename);
+      fs.writeFileSync(outputPath, markdown);
+
+      console.log(`\nSaved: ${outputPath}`);
+      console.log(`Words: ~${markdown.split(/\s+/).length}`);
+    } else {
+      console.error('Error: Unrecognised content structure');
+      console.error('Expected details.body or details.parts[]');
+      process.exit(1);
+    }
+
     console.log(`Title: ${data.title}`);
     console.log(`Updated: ${data.public_updated_at?.split('T')[0] || 'unknown'}`);
-    console.log(`Words: ~${markdown.split(/\s+/).length}`);
 
   } catch (error) {
     console.error('Error:', error.message);

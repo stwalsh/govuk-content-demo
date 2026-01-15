@@ -297,6 +297,16 @@ node fetch-legislation.js uksi/2024/1332    # UK Statutory Instrument
 node fetch-legislation.js ukpga/2021/30     # UK Public General Act
 ```
 
+### Fetch GOV.UK guidance
+
+Pull any GOV.UK page via the Content API and convert to clean markdown:
+
+```bash
+node fetch-govuk.js /guidance/page-slug
+node fetch-govuk.js /guidance/page-slug "Existing guidance"
+node fetch-govuk.js https://www.gov.uk/guidance/page-slug
+```
+
 ### Sync check
 
 Compare local guidance against live GOV.UK pages:

@@ -28,9 +28,9 @@ This tool can help with these tasks:
 
 The most obvious things to add are folders of UR and analytics. That'll expand what it can do. This is a private project so I haven't pointed it at any material that isn't completely and intuitively public.
 
-A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic.
+A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic. I've had it fetch the odd GOV.UK page and convert it to Markdown but this could probably be more robust. I can't see it being _hard_ to get it to rip through a collection and grab and convert all the guidance.
 
-This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude.
+This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude. 
 
 ## Tips
 
@@ -38,6 +38,18 @@ This is designed for guidance. I can see how it would work for service content -
 - Be directive about structure and length: "keep it under 500 words" or "I want this as 3 separate pages" saves iteration
 - Point Claude at specific files before asking questions — "read X then tell me Y"
 - If you need additional tools, ask Claude to build them
+
+### Usage caps
+
+There's a cap on how much you can use Claude, per session and per week. It's not based on time but on how much token processing Claude is doing - effectively, how hard it's thinking.
+
+You can check usage in the CLI by typing /status and tabbing to usage. 
+
+If you're a Pro user you can hit your cap surprisingly easily. Follow the tips for more efficent usage but also:
+
+- tell it use a different, less advanced model for easier jobs
+- resist the lure of telling it to do things that you can do yourself
+
 
 ## CAREFUL!!
 

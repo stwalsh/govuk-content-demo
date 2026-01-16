@@ -6,6 +6,8 @@ Notes on the different publishing systems and content types we encounter.
 
 ## Publishing Systems
 
+**Before choosing a system**, check `Style and content principles/Planning content.md` for the mainstream vs specialist criteria. Mainstream is for general public with no specialist knowledge; specialist assumes expertise. Don't suggest mainstream for specialist audiences.
+
 ### Whitehall Publisher
 
 Used for: detailed guidance, policy papers, consultations, corporate information.

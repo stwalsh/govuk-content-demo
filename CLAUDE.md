@@ -109,6 +109,8 @@ If content becomes hedged with conditionals ("if... unless... may... depending o
 
 Smart answers use one question per screen, branch based on answers, and give clear outcomes. They handle complexity through interaction rather than explanation.
 
+**But they have a cost.** Every branch needs writing and maintaining. A simple-looking checker can explode into hundreds of paths (countries × scenarios × edge cases). When designing a flow, always ask: how many paths are we creating, and who maintains them? Sometimes the right answer is simpler prose, not a smart answer.
+
 ---
 
 ## Logging chats

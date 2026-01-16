@@ -12,18 +12,6 @@ It really looks like it works but I want people to try it out and see where it b
 
 The repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
 
-## Guardrails against "govslop"
-
-This tool has built-in resistance to producing content without clear purpose. Claude will push back if you ask it to:
-
-- Draft content without stating the user need it serves
-- Create pages that duplicate existing content
-- Write reports without a clear audience and decision
-- Produce large volumes of content without justification
-
-This is intentional. GOV.UK doesn't need more adequate-enough content that isn't anchored to real user needs. Every page is a potential obstacle to users finding what they actually need.
-
-If Claude is asking too many questions, you can override by being specific about the user need, or by explaining why the guardrails don't apply to your situation.
 
 ## What the tool is useful for
 
@@ -51,6 +39,19 @@ This is designed for guidance. I can see how it would work for service content -
 - Be directive about structure and length: "keep it under 500 words" or "I want this as 3 separate pages" saves iteration
 - Point Claude at specific files before asking questions — "read X then tell me Y"
 - If you need additional tools, ask Claude to build them
+
+### Guardrails against "govslop"
+
+This tool has built-in resistance to producing content without clear purpose. Claude will push back if you ask it to:
+
+- Draft content without stating the user need it serves
+- Create pages that duplicate existing content
+- Write reports without a clear audience and decision
+- Produce large volumes of content without justification
+
+This is intentional. GOV.UK doesn't need more adequate-enough content that isn't anchored to real user needs. Every page is a potential obstacle to users finding what they actually need.
+
+If Claude is asking too many questions, you can override by being specific about the user need, or by explaining why the guardrails don't apply to your situation.
 
 ### Usage caps
 

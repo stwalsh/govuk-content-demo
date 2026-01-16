@@ -79,8 +79,9 @@ If you're a Pro user you can hit your cap surprisingly easily. Follow the tips f
 
 ```
 ├── CLAUDE.md                # Project instructions and guardrails
-├── CONTENT-TYPES.md         # GOV.UK content types and smart answer reference
-├── smart-answers-reference.md  # Flow design patterns and checklist
+├── reference/               # Background documentation
+│   ├── CONTENT-TYPES.md     # GOV.UK content types and smart answer specs
+│   └── smart-answers-reference.md  # Flow design patterns and checklist
 │
 ├── Legislation/             # Producer Responsibility Regulations 2024
 │   └── 2024-1332/           # Split into Parts and Schedules as markdown

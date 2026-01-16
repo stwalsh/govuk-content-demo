@@ -76,6 +76,20 @@ Format:
 **Severity**: [Must fix / Should fix / Consider]
 ```
 
+## Low-literacy review
+
+When content is aimed at users who may have low literacy, limited English, or be reading under stress (benefits claimants, people in crisis, vulnerable groups), do an additional pass for:
+
+- [ ] **Sentence length** — Under 15 words where possible, never over 20
+- [ ] **Unexplained jargon** — Even "common" terms like "eligible", "entitled", "circumstances" can be barriers
+- [ ] **Calculations in prose** — If users need to do maths, can it be a calculator or table instead?
+- [ ] **Passive voice** — "Your payment will be reduced" → "We will reduce your payment"
+- [ ] **Double conditions** — "If you do not... unless..." — split into separate sentences
+- [ ] **Acronyms and initialisms** — Spell out every time, or avoid entirely
+- [ ] **Abstract nouns** — "Your entitlement" → "What you can get"
+
+When flagging issues, provide a rewritten example showing the fix.
+
 ## Key References
 
 - GOV.UK Style Guide: https://www.gov.uk/guidance/style-guide

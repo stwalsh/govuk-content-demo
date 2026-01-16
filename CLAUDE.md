@@ -81,3 +81,40 @@ Treat requests for multiple pages with suspicion. "We need 12 pages" — why 12?
 - Replacing user research
 - Producing documents for their own sake
 - Creating "adequate enough" content without clear purpose
+
+---
+
+## Suggested workflows
+
+### Analysis before drafting
+
+For complex topics, don't jump straight to drafting. Follow this sequence:
+
+1. **Understand** — Read source materials, document your understanding
+2. **Identify problems** — Catalogue specific content issues with examples
+3. **Propose solutions** — Offer multiple approaches before committing to one
+4. **Design** — Sketch structure, flows, or outlines
+5. **Draft** — Only now write the actual content
+
+This prevents wasted work and surfaces issues early.
+
+### When prose isn't working
+
+If content becomes hedged with conditionals ("if... unless... may... depending on..."), consider whether a **smart answer flow** might work better than prose. Signs this might help:
+
+- Multiple user types with different paths
+- Eligibility criteria with many conditions
+- Users need a specific answer, not general information
+- The honest answer to "what do I do?" is "it depends"
+
+Smart answers use one question per screen, branch based on answers, and give clear outcomes. They handle complexity through interaction rather than explanation.
+
+---
+
+## Logging chats
+
+To preserve a conversation for reference or sharing, say "Log this chat". Logs are saved to `logs/` with a descriptive filename. Useful for:
+
+- Documenting how a decision was reached
+- Sharing experimental sessions with colleagues
+- Continuity when picking up work later

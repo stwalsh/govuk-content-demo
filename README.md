@@ -33,6 +33,16 @@ A folder of high quality GOV.UK content in clean markdown would be useful as ref
 
 This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude. 
 
+## CAREFUL!!
+
+This is processing data on Anthropic's servers. Do not I repeat do not give it _anything_ sensitive. In fact I advise you to play it safe and stick to published materials.
+
+The CLI asks permission before running commands or editing files. Read what it's asking before you approve. Be especially careful with anything destructive — deleting files, force-pushing to git, or running unfamiliar scripts.
+
+Keep the human in the loop. Verify everything. 
+
+
+
 ## Tips
 
 - It likes markdown as a source format — plain text, easy to diff, works well with version control
@@ -63,15 +73,6 @@ If you're a Pro user you can hit your cap surprisingly easily. Follow the tips f
 
 - tell it use a different, less advanced model for easier jobs
 - resist the lure of telling it to do things that you can do yourself
-
-
-## CAREFUL!!
-
-This is processing data on Anthropic's servers. Do not I repeat do not give it _anything_ sensitive. In fact I advise you to play it safe and stick to published materials.
-
-The CLI asks permission before running commands or editing files. Read what it's asking before you approve. Be especially careful with anything destructive — deleting files, force-pushing to git, or running unfamiliar scripts.
-
-Keep the human in the loop. Verify everything. 
 
 
 ## What's here

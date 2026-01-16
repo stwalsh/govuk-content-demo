@@ -1,22 +1,22 @@
-# GOV.UK Guidance Drafting Demo
+# GOV.UK Guidance Editing Demo
 
 ## Purpose
 
-Experiment with using Claude to draft GOV.UK guidance content. This sandbox contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations.
+Experiment with using Claude to edit GOV.UK guidance content. This sandbox contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations.
 
 ## Team Structure
 
 | Role | Responsibility |
 |------|----------------|
 | **Human Lead** | Steers decisions, provides direction, synthesises feedback |
-| **Drafting Claude** | Produces content based on source materials |
+| **Editing Claude** | Refines content based on source materials |
 | **Style Review Claude** | Reviews against GOV.UK style standards |
 | **Legal/Policy Claude** | Checks factual accuracy and legal compliance |
 
 ## Workflow
 
 1. Human provides task and points to source materials
-2. Drafting Claude produces content in `drafts/`
+2. Editing Claude refines content in `drafts/`
 3. Review Claudes provide feedback in `FEEDBACK.md`
 4. Human decides which feedback to implement
 5. Iterate until content meets standards

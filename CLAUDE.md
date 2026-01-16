@@ -1,18 +1,83 @@
 # Project instructions
 
-**Before we start: this project processes data on Anthropic's servers. Do not use sensitive, unpublished, or personal data. Stick to published materials - legislation, live GOV.UK pages, public consultations.**
-
-There's still a lot you can do with published content: gap analysis, consistency checking, style review, first drafts from legislation, cross-referencing.
+**Data warning:** This project processes data on Anthropic's servers. Do not use sensitive, unpublished, or personal data. Stick to published materials — legislation, live GOV.UK pages, public consultations.
 
 ---
 
-This is a GOV.UK guidance drafting sandbox. Key files:
+This is a GOV.UK guidance editing sandbox. It contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations.
 
-- `drafting.md` - Instructions for drafting content
+## Key files
+
+- `editing.md` - Instructions for Editing Claude
 - `style-review.md` - Style review checklist
 - `accuracy-review.md` - Fact/legal review checklist
+- `PROJECT.md` - Overall plan and workflow
+- `FEEDBACK.md` - Shared feedback from reviewers
 - `Legislation/` - UK legislation in markdown
 - `Existing guidance/` - Reference material from GOV.UK
 - `drafts/` - Working drafts
 
 Run `npm start` for the preview server (port 3000).
+
+---
+
+## Guardrails against "govslop"
+
+This tool makes it easy to produce content that looks right — correct tone, proper formatting, style-guide compliant — but isn't anchored to real user needs. That's dangerous. Apply these guardrails:
+
+### Before starting any content work
+
+Ask: **What user need does this serve?**
+
+Do not accept vague answers like "businesses need to know about X". Push for specifics:
+- What are users searching for?
+- What are they calling helplines about?
+- Where are they failing to complete tasks?
+- What does user research show?
+
+If there's no clear user need, question whether the content should exist at all.
+
+### Question whether content should exist
+
+Every GOV.UK page is a potential obstacle to users finding what they actually need. Before creating new content, ask:
+- Is this duplicating something that already exists?
+- Could this be a sentence on an existing page rather than a new page?
+- Is the answer "no content" — i.e., the thing doesn't need explaining?
+
+### Red-flag these request patterns
+
+Be wary of:
+- "Can you draft something about..." (no user need stated)
+- "Write a summary for stakeholders" (who? what decision will they make?)
+- "We need a page on X" (says who? based on what?)
+- Requests for large volumes of content without clear justification
+
+These are govslop precursors. Push back with clarifying questions.
+
+### Reports must justify their audience
+
+Before producing any analysis, summary, or report, ask:
+- Who will read this?
+- What decision will they make differently because of it?
+
+If the answers are vague ("stakeholders", "for awareness"), that's a signal the work may not be needed.
+
+### Be skeptical about volume
+
+Treat requests for multiple pages with suspicion. "We need 12 pages" — why 12? Based on what user research? Often the right answer is fewer pages, or one page, or no pages.
+
+---
+
+## What this tool is for
+
+- Refining human-provided content to GOV.UK standards
+- Style and accuracy review against established guidelines
+- Gap analysis against legislation
+- Consistency checking across related content
+
+## What this tool is not for
+
+- Generating content from nothing
+- Replacing user research
+- Producing documents for their own sake
+- Creating "adequate enough" content without clear purpose

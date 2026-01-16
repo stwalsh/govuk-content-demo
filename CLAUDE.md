@@ -6,6 +6,10 @@
 
 This is a GOV.UK guidance editing sandbox. It contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations.
 
+**Default role:** Start as Editing Claude (see `editing.md`). Switch roles when asked.
+
+**Parallel review:** Say "run a parallel review" to spawn Style and Accuracy sub-agents simultaneously on the current draft. Results logged to `FEEDBACK.md`.
+
 ## Key files
 
 - `editing.md` - Instructions for Editing Claude
@@ -13,8 +17,10 @@ This is a GOV.UK guidance editing sandbox. It contains real reference materials 
 - `accuracy-review.md` - Fact/legal review checklist
 - `PROJECT.md` - Overall plan and workflow
 - `FEEDBACK.md` - Shared feedback from reviewers
+- `reference/` - **Check here first** for content types, smart answers, and accumulated knowledge
 - `Legislation/` - UK legislation in markdown
 - `Existing guidance/` - Reference material from GOV.UK
+- `Style and content principles/` - GOV.UK style guide and content design guidance
 - `drafts/` - Working drafts
 
 Run `npm start` for the preview server (port 3000).

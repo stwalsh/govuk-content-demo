@@ -165,6 +165,99 @@ When encountering a new content type:
 
 ---
 
+## Detailed Guide vs HTML Publication
+
+Both are Whitehall types for long-form specialist content. The line between them is blurry.
+
+### Detailed guide
+
+- Single HTML page
+- Good for task-focused guidance
+- One-click access to content
+- Simpler to maintain
+- No persistent navigation within the content
+
+### HTML publication
+
+- Has a **splash page** (cover page) introducing the content
+- Can contain multiple HTML documents as attachments
+- Persistent left-hand navigation between documents
+- Better handling of images and complex tables
+- Good for reference material users will return to
+- Can also attach non-HTML files (CSV, PDF, ODS)
+
+### Trade-offs
+
+| HTML publication | Detailed guide |
+|------------------|----------------|
+| 2-click journey to reach content (splash → document) | 1-click journey |
+| Persistent nav helps users move between sections | Single page — use page contents/anchors |
+| Better for large, structured reference documents | Better for task-focused "do this thing" guidance |
+| Some content designers dislike the extra click | Simpler mental model |
+
+### When to use which
+
+**Use HTML publication when:**
+- Content is reference material (specifications, code tables, detailed rules)
+- Users need to navigate between multiple related documents
+- Tables are complex and benefit from full-width rendering
+- There are attachments (CSVs, templates) alongside the guidance
+
+**Use detailed guide when:**
+- Content is task-focused ("how to do X")
+- Users arrive, get the answer, leave
+- Single page can cover the topic adequately
+
+### Splash page pattern
+
+The splash page (cover page) of a publication typically includes:
+
+1. Title and summary
+2. Who the guidance is for
+3. What it covers (brief overview)
+4. Links to related guidance
+5. How to get help / give feedback
+
+The splash page introduces; the attached documents deliver the detail.
+
+**Example structure:**
+```
+Publication: "Organisation details: how to create your file for EPR"
+├── Splash page (introduction, audience, links)
+├── HTML document: File specification
+├── HTML document: Field-by-field guidance
+└── Attachment: CSV template
+```
+
+---
+
+## Converting Word documents
+
+Use pandoc to convert .docx to markdown:
+
+```bash
+pandoc -f docx -t markdown source.docx -o output.md
+```
+
+### Table conversion
+
+Pandoc converts Word tables to **grid tables** (verbose, hard to read). To convert to cleaner formats:
+
+```bash
+pandoc -f markdown -t gfm input.md -o output.md
+```
+
+**But note:** If tables have multi-line cells, pandoc converts to HTML tables rather than markdown pipe tables. GFM pipe tables can't handle multi-line cell content.
+
+| Original | Conversion | Result |
+|----------|------------|--------|
+| Word table | pandoc to markdown | Grid tables |
+| Grid tables | pandoc to GFM | HTML tables (if multi-line cells) or pipe tables (if simple) |
+
+**Recommendation:** For complex tables with multi-line cells, keep HTML tables — they render correctly. Convert to pipe tables only when you can simplify cell content.
+
+---
+
 ## Notes
 
 - Mainstream tends to be tighter on plain English than Whitehall

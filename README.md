@@ -1,16 +1,29 @@
-# GOV.UK Guidance Analysis with Claude
+# GOV.UK Guidance Editing with Claude
 
-A demo sandbox for a content design tool
+A demo sandbox for a content design tool.
 
-It uses Claude to analyse and draft government guidance for GOV.UK.
+It uses Claude to analyse and edit government guidance for GOV.UK.
 
-I ran it up in 2 hours on Sunday afternoon. 1.5 of those hours were gathering material. Don’t let anyone sell you a six-figure content solution that’s just this in disguise. 
+I ran it up in 2 hours on Sunday afternoon. 1.5 of those hours were gathering material. Don't let anyone sell you a six-figure content solution that's just this in disguise.
 
-I've no commercial plans for this. I'm just sharing it so the community can see what's possible. If you want me to talk to you about it, let me know. 
+I've no commercial plans for this. I'm just sharing it so the community can see what's possible. If you want me to talk to you about it, let me know.
 
-It really looks like it works but I want people to try it out and see where it breaks. 
+It really looks like it works but I want people to try it out and see where it breaks.
 
 The repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
+
+## Guardrails against "govslop"
+
+This tool has built-in resistance to producing content without clear purpose. Claude will push back if you ask it to:
+
+- Draft content without stating the user need it serves
+- Create pages that duplicate existing content
+- Write reports without a clear audience and decision
+- Produce large volumes of content without justification
+
+This is intentional. GOV.UK doesn't need more adequate-enough content that isn't anchored to real user needs. Every page is a potential obstacle to users finding what they actually need.
+
+If Claude is asking too many questions, you can override by being specific about the user need, or by explaining why the guardrails don't apply to your situation.
 
 ## What the tool is useful for
 
@@ -26,9 +39,9 @@ This tool can help with these tasks:
 
 ### What's missing
 
-The most obvious things to add are folders of UR and analytics. That'll expand what it can do. This is a private project so I haven't pointed it at any material that isn't completely and intuitively public.
+The most obvious thing to add would be real user research — transcripts, analytics, call centre logs. That would expand what it can do significantly. (Note: this tool won't simulate UR for you. There's no shortcut for real research.)
 
-A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic. I've had it fetch the odd GOV.UK page and convert it to Markdown but this could probably be more robust. I can't see it being _hard_ to get it to rip through a collection and grab and convert all the guidance.
+A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic. I've had it fetch the odd GOV.UK page and convert it to Markdown but this could probably be more robust.
 
 This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude. 
 
@@ -63,6 +76,10 @@ Keep the human in the loop. Verify everything.
 ## What's here
 
 ```
+├── CLAUDE.md                # Project instructions and guardrails
+├── CONTENT-TYPES.md         # GOV.UK content types and smart answer reference
+├── smart-answers-reference.md  # Flow design patterns and checklist
+│
 ├── Legislation/             # Producer Responsibility Regulations 2024
 │   └── 2024-1332/           # Split into Parts and Schedules as markdown
 │
@@ -74,11 +91,12 @@ Keep the human in the loop. Verify everything.
 │
 ├── Style and content principles/   # GOV.UK style guide resources
 │
-├── drafting.md              # Instructions for "Drafting Claude" role
+├── editing.md               # Instructions for "Editing Claude" role
 ├── style-review.md          # Instructions for "Style Review Claude" role
-├── accuracy-review.md          # Instructions for "Legal/Policy Review Claude" role
+├── accuracy-review.md       # Instructions for "Legal/Policy Review Claude" role
 ├── FEEDBACK.md              # Shared log for review feedback
 ├── drafts/                  # Working drafts go here
+├── logs/                    # Saved chat logs for reference
 │
 ├── server.js                # Preview server with GOV.UK styling
 ├── fetch-legislation.js     # Tool to fetch UK legislation as markdown
@@ -239,7 +257,7 @@ these consistently:
 **Goal:** Produce a first draft from source material.
 
 ```
-Read drafting.md for the drafting role instructions.
+Read editing.md for the editing role instructions.
 
 Read Legislation/2024-1332/part-07-corporate-groups.md and
 Legislation/2024-1332/schedules/schedule-09-corporate-groups.md
@@ -320,11 +338,11 @@ node sync-check.js --diff   # Show content differences
 
 ## The multi-Claude approach
 
-The role files (`drafting.md`, `style-review.md`, `accuracy-review.md`) set up different perspectives:
+The role files (`editing.md`, `style-review.md`, `accuracy-review.md`) set up different perspectives:
 
 - **Style Review Claude** — checks GOV.UK standards
 - **Accuracy Claude** — verifies facts against source material
-- **Drafting Claude** — produces content when needed
+- **Editing Claude** — refines content when needed
 
 Running separate sessions with different role instructions lets each focus on its domain. A human synthesises the outputs and makes decisions.
 
@@ -369,7 +387,7 @@ Then run `node sync-check.js` to check for drift.
 
 ### 4. Keep or adapt the role files
 
-The role instructions (`drafting.md`, `style-review.md`, `accuracy-review.md`) are generic GOV.UK guidance — they should work for any topic. Tweak if your domain has specific conventions.
+The role instructions (`editing.md`, `style-review.md`, `accuracy-review.md`) are generic GOV.UK guidance — they should work for any topic. Tweak if your domain has specific conventions.
 
 ---
 

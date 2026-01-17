@@ -354,7 +354,15 @@ The role files (`editing.md`, `style-review.md`, `accuracy-review.md`) set up di
 - **Accuracy Claude** — verifies facts against source material
 - **Editing Claude** — refines content when needed
 
-Running separate sessions with different role instructions lets each focus on its domain. A human synthesises the outputs and makes decisions.
+Running separate sessions with different role instructions lets each focus on its domain. A human synthesises the outputs and makes decisions (or Claude can - rinse and repeat).
+
+This is really powerful. Maybe the key feature of this environment. Create new roles, adjust these ones.
+
+I've also been experimenting with parallel reviewing, treating them as sub-agents called by 'editing claude' when reviewing. Just say "run a parallel review" if you want to try it. Warning — it'll get through tokens faster. 
+
+I think there are gains to be had from creating more adversarial reviewers but I'm not in a rush to try it. I hate conflict!
+
+I repeat, this is powerful. If you want to explore it, I took the idea from developer uses of Claude Code so read around their discussions of 'multi-agent reviews', 'parallel subagents', that kind of thing. 
 
 ---
 

@@ -29,7 +29,9 @@ This tool can help with these tasks:
 
 The most obvious thing to add would be real user research — transcripts, analytics, call centre logs. That would expand what it can do significantly. (Note: this tool won't simulate UR for you. There's no shortcut for real research.)
 
-A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic. I've had it fetch the odd GOV.UK page and convert it to Markdown but this could probably be more robust.
+A folder of high quality GOV.UK content in clean markdown would be useful as reference material. Examples of good practice from across government, not just this topic. 
+
+I've had it fetch the odd GOV.UK page and convert it to Markdown but this could probably be more robust.
 
 This is designed for guidance. I can see how it would work for service content - if you can't, either come and find me or ask Claude. 
 
@@ -318,6 +320,11 @@ node fetch-legislation.js uksi/2024/1332    # UK Statutory Instrument
 node fetch-legislation.js ukpga/2021/30     # UK Public General Act
 ```
 
+I've also been trying out [Lex, a UK legislation MCP](https://lex.lab.i.ai.gov.uk/) - essentially an API that this tool can talk to. It'll let you make natural language queries to find legislation - 'Can you ask Lex for any current UK legislation relating to dog ownership and breeding?' - and is vastly more powerful than the built-in fetcher. 
+
+I've been getting a few timeouts so I haven't added support to this demo, but just look at Lex or ask Claude and you'll figure it out. 
+
+
 ### Fetch GOV.UK guidance
 
 Pull any GOV.UK page via the Content API and convert to clean markdown:
@@ -327,10 +334,6 @@ node fetch-govuk.js /guidance/page-slug
 node fetch-govuk.js /guidance/page-slug "Existing guidance"
 node fetch-govuk.js https://www.gov.uk/guidance/page-slug
 ```
-
-I've also been trying out [Lex, a UK legislation MCP](https://lex.lab.i.ai.gov.uk/) - essentially an API that this tool can talk to. It'll let you make natural language queries to find legislation - 'Can you ask Lex for any current UK legislation relating to dog ownership and breeding?'
-
-I've been getting a few timeouts so I haven't added support to this demo, but just look at Lex or ask Claude and you'll figure it out. 
 
 ### Sync check
 
@@ -372,7 +375,7 @@ This pulls from legislation.gov.uk and converts to markdown. Find identifiers at
 
 ### 2. Replace the existing guidance
 
-Delete the contents of `Existing guidance/` and add your own GOV.UK pages. Save as markdown — just copy the main content, not the navigation chrome.
+Delete the contents of `Existing guidance/` and add your own GOV.UK pages. Save as markdown - title, summary, body. It can fetch and convert from URLS if you prefer, as documented above.  
 
 ### 3. Update sync config (optional)
 

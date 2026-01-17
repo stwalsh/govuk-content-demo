@@ -328,6 +328,10 @@ node fetch-govuk.js /guidance/page-slug "Existing guidance"
 node fetch-govuk.js https://www.gov.uk/guidance/page-slug
 ```
 
+I've also been trying out [Lex, a UK legislation MCP](https://lex.lab.i.ai.gov.uk/) - essentially an API that this tool can talk to. It'll let you make natural language queries to find legislation - 'Can you ask Lex for any current UK legislation relating to dog ownership and breeding?'
+
+I've been getting a few timeouts so I haven't added support to this demo, but just look at Lex or ask Claude and you'll figure it out. 
+
 ### Sync check
 
 Compare local guidance against live GOV.UK pages:

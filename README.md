@@ -112,9 +112,13 @@ If you're a Pro user you can hit your cap surprisingly easily. Follow the tips f
 
 You need a Claude Pro or Max account. Two ways to run this:
 
-### Option A: Browser (easiest to start)
+### Option A: Claude Cowork or Claude Code browser (flaky, tbh) 
 
-Use [Claude Code on the web](https://claude.ai/code) — no install needed.
+In theory this is the easy way and soon it should be. But right now it chokes a lot on this repo and either I have to optimise or the products bed in. 
+
+If you've got Cowork, download this folder, open it in the app at it and start asking questions. 
+
+For [Claude Code on the web](https://claude.ai/code):
 
 1. Go to claude.ai/code
 2. Connect this GitHub repo
@@ -122,7 +126,6 @@ Use [Claude Code on the web](https://claude.ai/code) — no install needed.
 
 Claude works in a cloud environment and can push changes to branches.
 
-Note: The web version is slower and flakier than local CLI. Easier setup but harder to use well. Fine for trying it out; switch to local if you get frustrated.
 
 ### Option B: Local CLI
 

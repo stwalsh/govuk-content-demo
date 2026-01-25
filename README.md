@@ -12,6 +12,8 @@ It really looks like it works but I want people to try it out and see where it b
 
 The repo contains real reference materials from the Extended Producer Responsibility (EPR) for Packaging regulations — legislation, existing guidance, and style guides.
 
+Visit [Immram content](https://immram.net) for notes, ramblings, updates.
+
 
 ## What the tool is useful for
 
@@ -51,6 +53,8 @@ Keep the human in the loop. Verify everything.
 - Be directive about structure and length: "keep it under 500 words" or "I want this as 3 separate pages" saves iteration
 - Point Claude at specific files before asking questions — "read X then tell me Y"
 - If you need additional tools, ask Claude to build them
+
+You may start to get 'context drift' in long sessions or following arduous tasks - Claude will forget things from the start of the session or backslide into LLM language patterns. If you've been pushing it, maybe ask it to document where you are, close the session and come back.
 
 ### Guardrails against "govslop"
 
